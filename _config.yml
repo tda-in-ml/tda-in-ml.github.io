@@ -9,3 +9,5 @@ navigation:
 
 plugins:
   - jekyll-seo-tag
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
