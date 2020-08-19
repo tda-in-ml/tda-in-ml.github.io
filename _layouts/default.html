@@ -25,14 +25,13 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: page.title }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
+      {% if site.logo %}
       <div class="logo-container">
         <img src="{{ page.image | default: site.logo }}" alt="{{ page.title | default: site.title }}" class="project-name" />
       </div>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% for item in site.navigation %}
-        <a href="{{ item[1] }}" class="btn">{{ item[0] }}</a>
+      <a href="{{ item[1] }}" class="btn">{{ item[0] }}</a>
       {% endfor %}
     </header>
 

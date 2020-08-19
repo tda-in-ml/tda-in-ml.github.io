@@ -35,3 +35,25 @@ $hr-border-color: #999 !default;
     color: $section-headings-color;
   }
 }
+
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: url('/assets/images/banner.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  @include large {
+    padding: 2.5rem 6rem;
+  }
+
+  @include medium {
+    padding: 2.5rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+}
