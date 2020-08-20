@@ -4,7 +4,7 @@ layout: default
 
 # TL;DR
 
-| **Date** |One-day workshop on Friday, December 11 2020, *or* Saturday, December 12 2020 |
+| **Date** |One-day workshop on Friday, 11 December 2020, *or* Saturday, 12 December 2020 |
 | **Time** | TBA |
 | **Location** | Given the ongoing shaky situation with COVID-19, the workshop will be held virtually. Stay tuned for more information. |
 
