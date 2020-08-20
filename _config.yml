@@ -4,8 +4,11 @@ description: Workshop at NeurIPS 2020
 navigation:
   Home: "/"
   Call for Papers: "/cfp"
+  Organisers: "/organisers"
   Speakers: "/speakers"
   Schedule: "/schedule"
+
+markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
