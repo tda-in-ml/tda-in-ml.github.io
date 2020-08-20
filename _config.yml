@@ -12,5 +12,6 @@ markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-last-modified-at
 
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
