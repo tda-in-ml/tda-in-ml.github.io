@@ -1,0 +1,345 @@
+\documentclass{article}
+
+% We suggest
+% if you need to pass options to natbib, use, e.g.:
+%     \PassOptionsToPackage{numbers, compress}{natbib}
+% before loading neurips_2020
+
+% ready for submission
+% \usepackage{neurips_2020}
+
+% to compile a preprint version, e.g., for submission to arXiv, add add the
+% [preprint] option:
+%     \usepackage[preprint]{neurips_2020_tda}
+
+% to compile a camera-ready version, add the [final] option, e.g.:
+%     \usepackage[final]{neurips_2020_tda}
+
+% to avoid loading the natbib package, add option nonatbib:
+\usepackage[nonatbib]{neurips_2020_tda}
+
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{hyperref}       % hyperlinks
+\usepackage{url}            % simple URL typesetting
+\usepackage{microtype}      % microtypography
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{paralist}       % in-paragraph enumerations
+\usepackage{siunitx}        % SI units
+
+\urlstyle{same}
+
+\title{
+  Formatting Instructions for the ``Topological Data Analysis and Beyond''
+  Workshop at NeurIPS 2020
+}
+
+% The \author macro works with any number of authors. There are two commands
+% used to separate the names and addresses of multiple authors: \And and \AND.
+%
+% Using \And between authors leaves it to LaTeX to determine where to break the
+% lines. Using \AND forces a line break at that point. So, if LaTeX puts 3 of 4
+% authors names on the first line, and the last on the second line, try using
+% \AND instead of \And before the third author name.
+
+\author{%
+  David S.~Hippocampus\thanks{Use footnote for providing further information
+    about author (webpage, alternative address)---\emph{not} for acknowledging
+    funding agencies.} \\
+  Department of Computer Science\\
+  Cranberry-Lemon University\\
+  Pittsburgh, PA 15213 \\
+  \texttt{hippo@cs.cranberry-lemon.edu} \\
+  % examples of more authors
+  % \And
+  % Coauthor \\
+  % Affiliation \\
+  % Address \\
+  % \texttt{email} \\
+  % \AND
+  % Coauthor \\
+  % Affiliation \\
+  % Address \\
+  % \texttt{email} \\
+  % \And
+  % Coauthor \\
+  % Affiliation \\
+  % Address \\
+  % \texttt{email} \\
+  % \And
+  % Coauthor \\
+  % Affiliation \\
+  % Address \\
+  % \texttt{email} \\
+}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+  This document provides a basic template for your paper and explains
+  the submission guidelines. Try to limit your abstract to a single paragraph,
+  ideally between 4--6 sentences long.
+\end{abstract}
+
+\section{Submission details}
+
+We require electronic submissions via OpenReview. Use the following site
+for your submission:
+%
+\begin{center}
+  \url{https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/TDA_and_Beyond}
+\end{center}
+%
+Please read the instructions below carefully and follow them faithfully.
+If you have any questions, reach out to \href{mailto:workshop@topology.rocks}{workshop@topology.rocks}.
+
+\section{Style file}
+
+Papers to be submitted to the `Topological Data Analysis and Beyond
+workshop' must be prepared according to the instructions presented here.
+Papers may only be up to four pages long, including figures.
+%
+Additional pages containing
+%
+\begin{inparaenum}[(i)]
+  \item \emph{acknowledgements},
+  \item \emph{funding statements}, and/or
+  \item \emph{cited references}
+\end{inparaenum}
+%
+are allowed.
+%
+Papers that exceed four pages of content will not be reviewed, or in
+any other way considered for presentation at the workshop. The margins
+follow the NeurIPS~2020 template.
+
+This \LaTeX{} style file contains three optional arguments: \verb+final+, which
+creates a camera-ready copy, \verb+preprint+, which creates a preprint for
+submission to, e.g., arXiv, and \verb+nonatbib+, which will not load the
+\verb+natbib+ package for you in case of package clash.
+
+\paragraph{Preprint option}
+%
+If you wish to post a preprint of your work online, e.g.\ on arXiv, using the
+NeurIPS style, please use the \verb+preprint+ option. This will create a
+non-anonymous version of your work with the text ``Preprint. Work in progress.''
+in the footer. This version may be distributed as you see fit. Please \textbf{do
+  not} use the \verb+final+ option, which should \textbf{only} be used for
+papers accepted to the workshop.
+
+At submission time, please omit the \verb+final+ and \verb+preprint+
+options. This will anonymise your submission and add line numbers to aid
+review. Please do \emph{not} refer to these line numbers in your paper as they
+will be removed during generation of camera-ready copies.
+
+The file \verb+neurips_2020_tda.tex+ may be used as a ``shell'' for writing your
+paper. All you have to do is replace the author, title, abstract, and text of
+the paper with your own.
+%
+The formatting instructions contained in these style files are summarized in
+Sections \ref{sec:General formatting instructions}, \ref{sec:Headings},
+and \ref{sec:Others} below.
+
+\section{General formatting instructions}
+\label{sec:General formatting instructions}
+
+For the final version, authors' names are set in boldface, and each name is
+centred above the corresponding address. The lead author's name is to be listed
+first~(left-most), and the co-authors' names~(if different address) are set to
+follow. If there is only one co-author, list both author and co-author side by
+side. Feel free to use footnote marks such as $\dagger$ in order to indicate
+equal contributions.
+
+Please pay special attention to the instructions in Section~\ref{sec:Others}
+regarding figures, tables, acknowledgements, and references.
+
+\section{Headings}
+\label{sec:Headings}
+
+All headings should be lower case (except for first word and proper nouns),
+flush left, and bold.
+
+\section{Citations, figures, tables, and references}
+\label{sec:Others}
+
+These instructions apply to everyone.
+
+\subsection{Citations within the text}
+
+The \verb+natbib+ package will be loaded for you by default.  Citations may be
+author/year or numeric, as long as you maintain internal consistency.  As to the
+format of the references themselves, any style is acceptable as long as it is
+used consistently.
+
+The documentation for \verb+natbib+ may be found at
+\begin{center}
+  \url{http://mirrors.ctan.org/macros/latex/contrib/natbib/natnotes.pdf}
+\end{center}
+Of note is the command \verb+\citet+, which produces citations appropriate for
+use in inline text.  For example,
+\begin{verbatim}
+   \citet{hasselmo} investigated\dots
+\end{verbatim}
+produces
+\begin{quote}
+  Hasselmo, et al.\ (1995) investigated\dots
+\end{quote}
+%
+If you wish to load the \verb+natbib+ package with options, you may add the
+following before loading the \verb+neurips_2020_tda+ package:
+\begin{verbatim}
+   \PassOptionsToPackage{options}{natbib}
+\end{verbatim}
+
+If \verb+natbib+ clashes with another package you load, you can add the optional
+argument \verb+nonatbib+ when loading the style file:
+\begin{verbatim}
+   \usepackage[nonatbib]{neurips_2020_tda}
+\end{verbatim}
+
+As submission is~(optionally) double-blind, you may want to refer to
+your own published work in the third person. That is, use ``In the
+previous work of Jones et al.\ [4],'' not ``In our previous work [4].''
+If you cite your other papers that are not widely available (e.g.\
+a journal paper under review), use anonymous author names in the
+citation, e.g., an author of the form ``A.\ Anonymous.''
+
+\subsection{Footnotes}
+
+Footnotes should be used sparingly.  If you do require a footnote, indicate
+footnotes with a number\footnote{Sample of the first footnote.} in the
+text.
+%
+Note that footnotes are properly typeset \emph{after} punctuation
+marks.\footnote{As in this example.}
+
+\subsection{Figures}
+
+All artwork must be neat, clean, and legible. Lines should be dark enough for
+purposes of reproduction. The figure number and caption always appear after the
+figure. Place one line space before the figure caption and one line space after
+the figure. The figure caption should be lower case (except for first word and
+proper nouns); figures are numbered consecutively.
+%
+You may use colour figures.  However, it is best for the figure captions
+and the paper body to be legible regardless of whether the paper is
+printed in black/white or in colour.
+%
+Moreover, when designing figures, please ensure that your colours can be
+distinguished by the colour-blind. Visit
+%
+\begin{center}
+  \url{https://colorbrewer2.org}
+\end{center}
+%
+for more advice on choosing colours.
+
+\subsection{Tables}
+
+All tables must be centred, neat, clean and legible.  The table number and
+title always appear before the table.  See Table~\ref{sample-table}.
+The table title must be lower case (except for first word and proper
+nouns).
+%
+Note that publication-quality tables \emph{do not contain vertical rules.} We
+strongly suggest the use of the \verb+booktabs+ package, which allows for
+typesetting high-quality, professional tables:
+\begin{center}
+  \url{https://www.ctan.org/pkg/booktabs}
+\end{center}
+This package was used to typeset Table~\ref{sample-table}.
+
+\begin{table}
+  \caption{%
+  Sample table title
+  }
+  \label{sample-table}
+  \centering
+  \begin{tabular}{lll}
+    \toprule
+    \multicolumn{2}{c}{Part}                   \\
+    \cmidrule(r){1-2}
+    Name     & Description     & Size (\si{\micro\meter}) \\
+    \midrule
+    Dendrite & Input terminal  & $\sim$100     \\
+    Axon     & Output terminal & $\sim$10      \\
+    Soma     & Cell body       & up to $10^6$  \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\section{Final instructions}
+
+Do \textbf{not} change any aspects of the formatting parameters in the style files.  In
+particular, do not modify the width or length of the rectangle the text should
+fit into, and do not change font sizes~(except perhaps in the
+\textbf{References} section; see below). Please note that pages should be
+numbered.
+
+\paragraph{Margins in \LaTeX{}}
+
+Most of the margin problems come from figures positioned by hand using
+\verb+\special+ or other commands. We suggest using the command
+\verb+\includegraphics+ from the \verb+graphicx+ package. Always specify the
+figure width as a multiple of the line width as in the example below:
+\begin{verbatim}
+   \usepackage[pdftex]{graphicx} ...
+   \includegraphics[width=0.8\linewidth]{myfile.pdf}
+\end{verbatim}
+See Section 4.4 in the graphics bundle documentation
+(\url{http://mirrors.ctan.org/macros/latex/required/graphics/grfguide.pdf})
+
+\paragraph{Hyphenation}
+%
+A number of width problems arise when \LaTeX{} cannot properly hyphenate a
+line. Please give LaTeX hyphenation hints using the \verb+\-+ command when
+necessary.
+
+\section*{Broader Impact}
+
+Authors may optionally include a statement of the broader impact of
+their work, including its ethical aspects and future societal
+consequences.  Authors may discuss both positive and negative
+outcomes, if any. For instance, authors might discuss
+%
+\begin{inparaenum}[(i)]
+  \item who may benefit from this research,
+  \item who may be put at disadvantage from this research,
+  \item what are the consequences of failure of the system, and
+  \item whether the task/method leverages biases in the data.
+\end{inparaenum}
+%
+Use unnumbered first level headings for this section, which should go at
+the end of the paper. \textbf{Note that this section does not count towards
+the eight pages of content that are allowed.}
+
+\begin{ack}
+Use unnumbered first level headings for the acknowledgements. All
+acknowledgements go at the end of the paper before the list of
+references. Moreover, you are required to declare funding~(financial
+activities supporting the submitted work) and competing interests
+(related financial activities outside the submitted work).
+%
+More information about this disclosure can be found at:
+\url{https://neurips.cc/Conferences/2020/PaperInformation/FundingDisclosure}.
+
+Do \textbf{not} include this section in the anonymised submission, only
+in the final paper. You can use the \texttt{ack} environment provided in
+the style file to automatically hide this section in an anonymous
+submission.
+\end{ack}
+
+\section*{References}
+
+References follow the acknowledgements. Use an unnumbered first-level heading for
+the references. Any choice of citation style is acceptable as long as you are
+consistent. It is permissible to reduce the font size to \verb+small+~(9 point)
+when listing the references.
+%
+\textbf{Note that the Reference section does not count towards the eight pages of content that are allowed.}
+
+\end{document}
