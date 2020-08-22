@@ -15,13 +15,13 @@ Submissions should be a single file in `.pdf` format. The review process
 is *double-blind*, so please ensure that all papers are appropriately
 anonymised.
 
-We also welcome extended abstracts of up to 1 page in length that
+We also welcome extended abstracts of up to 2 pages in length that
 describe open problems, novel applications, or challenges in
-*Topological Data Analysis*, *Topological Machine Learning*, or related
-areas. We explicitly welcome papers that have been recently published or
-are under submission to another venue. Please mark such papers
-upon submission and mention their publishing details in the
-text.
+*Topological Data Analysis*, *Topological Machine Learning*, and related
+areas. Again, this length does not include references or any supplementary
+materials. We also permit papers that have been recently published or are
+under submission to another venue. Please mark such papers accordingly upon
+submission.
 
 Accepted papers and extended abstracts will be presented as brief talks
 of 5--7 minutes length. Authors will also have the option to present
