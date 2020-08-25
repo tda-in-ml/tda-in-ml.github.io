@@ -37,3 +37,63 @@ provided as a preview of the expected style):
 
 - [neurips_2020_tda.tex](/assets/neurips_2020_tda.tex)
 - [neurips_2020_tda.pdf](/assets/neurips_2020_tda.pdf)
+
+# Scope and topics
+
+Please find a list of topics of interested, sorted alphabetically. If
+you are not sure whether your topic might be a good fit for the
+workshop, feel free to contact us at [workshop@topology.rocks](mailto:workshop@topology.rocks).
+
+-   **Approximations**: Can we approximate parts of the computational
+    pipeline, for example when calculating Vietoris--Rips complexes and
+    their associated filtrations, or when calculating distances between
+    persistence diagrams?
+
+-   **Benchmark data sets and software**: What are suitable benchmark
+    data sets to quickly compare different TDA methods in a reproducible
+    manner? What is 'our' MNIST or CIFAR data set? How do the existing
+    software tools for TDA measure up, and how do we address the
+    software needs?
+
+-   **Beyond persistent homology**: What other machinery from topology
+    can be applied to machine learning, beyond persistent homology? How
+    do we address the methodological and computational challenges?
+
+-   **Connections to learning theory**: How can topology help in
+    understanding complex models such as neural networks? How can we use
+    this understanding to uncover the underlying principles of
+    generalisation in the context of neural networks? How can we design
+    appropriate regularisation strategies to encourage beneficial
+    properties of learned mappings?
+
+-   **Current and future applications**: In which projects and
+    applications do topology-based approaches have a decisive 'edge' over
+    alternative approaches, and how to identify this 'niche'
+    methodically?
+
+-   **Feature descriptors**: How can we employ persistence diagrams in
+    unsupervised or supervised machine learning scenarios? How can we
+    improve their integration into our frameworks?
+
+-   **Higher-dimensional features**: In many applications, we limit the
+    dimension of topological features. What can we say about
+    higher-dimensional features? When are they suitable? How can we
+    approximate these efficiently?
+
+-   **Scaling and parallel processing**: How can we scale TDA to the
+    data set sizes that we encounter in machine learning?
+
+-   **Statistical approaches**: What can we say about confidence
+    estimates of topological features, in particular when there is an
+    element of stochasticity in the input data generation?
+
+-   **TDA for evolving machine learning areas**: How do we develop and
+    use TDA approaches for evolving fronts of ML such fair/explainable
+    ML, causality, meta-learning, or adversarial examples (note that
+    this is not an exhaustive list; TDA methods have cropped up in all
+    of these domains)?
+
+-   **Time-varying topology**: What are suitable characterisations of
+    time-varying topological features? What kind of computational tricks
+    can we use to speed up their calculation? What is a good perspective
+    to analyse dynamical systems with TDA?
