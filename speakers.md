@@ -7,8 +7,8 @@ layout: default
 We are happy to feature the following awesome speakers&nbsp;(this list
 is expanded on a rolling basis, stay tuned for more!):
 
-- [Chao Chen](#chao-chen)
 - [Mathieu Carrière](#mathieu-carrière)
+- [Chao Chen](#chao-chen)
 - [Robert Ghrist](#robert-ghrist)
 - [Liz Munch](#liz-munch)
 - [Yuzuru Yamakage](#yuzuru-yamakage)
