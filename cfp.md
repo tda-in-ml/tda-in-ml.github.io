@@ -8,26 +8,28 @@ layout: default
 | **Deadline**            |Friday,  2 October 2020 (23:59 AoE)|
 | **Author notification** |Friday, 30 October 2020 (23:59 AoE)|
 
-We welcome all original research papers of up to 4 pages in length. This
-length does not include references or any supplementary materials. Reviewers 
-are *not* obliged to read supplementary materials when reviewing the paper.
-Submissions should be a single file in `.pdf` format. The review process
-is *double-blind*, so please ensure that all papers are appropriately
+We welcome all original research papers of up to 4 pages in length,
+using the template provided [below](#style). This length does not include
+references or any supplementary materials. Reviewers are *not* obliged
+to read supplementary materials when reviewing the paper.  Submissions
+should be a single file in `.pdf` format. The review process is
+*double-blind*, so please ensure that all papers are appropriately
 anonymised.
 
 We also welcome extended abstracts of up to 2 pages in length that
 describe open problems, novel applications, or challenges in
 *Topological Data Analysis*, *Topological Machine Learning*, and related
-areas. Again, this length does not include references or any supplementary
-materials. We also permit papers that have been recently published or are
-under submission to another venue. Please mark such papers accordingly upon
-submission.
+areas&nbsp;(using the template provided [below](#style)). Again, this length does
+not include references or any supplementary materials. We also permit
+papers that have been recently published or are under submission to
+another venue. Please mark such papers accordingly upon submission.
 
 Accepted papers and extended abstracts will be presented as brief talks
 of 5--7 minutes length. Authors will also have the option to present
 their work in a live session.
 
-All accepted papers will be archived on OpenReview.
+This workshop is **non-archival**; even though all accepted papers will be
+available on OpenReview, there are *no* formally-published proceedings.
 
 # Style
 
