@@ -6,9 +6,10 @@ timezone: Europe/Zurich
 navigation:
   Home: "/"
   Call for Papers: "/cfp"
-  Organisers: "/organisers"
-  Speakers: "/speakers"
   Schedule: "/schedule"
+  Speakers: "/speakers"
+  Organisers: "/organisers"
+  Programme Committee: "/committee"
 
 markdown: kramdown
 
