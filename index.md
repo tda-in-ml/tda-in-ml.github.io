@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# TL;DR
+# Overview
 
 | **Date** |One-day workshop on Friday, 11 December 2020, *or* Saturday, 12 December 2020 |
 | **Time** | TBA |
