@@ -11,6 +11,7 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Chao Chen](#chao-chen)
 - [Robert Ghrist](#robert-ghrist)
 - [Liz Munch](#liz-munch)
+- [Jose Perea](#jose-perea)
 - [Yuzuru Yamakage](#yuzuru-yamakage)
 
 ## Mathieu Carrière
@@ -40,6 +41,15 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [Michigan State University](http://elizabethmunch.com) |
 | **Biography** | Liz received her PhD from the Department of Mathematics at Duke University in May 2013. Prior to joining the faculty of Michigan State University, she was an Assistant Professor in the Department of Mathematics and Statistics at the University at Albany - SUNY, and a Postdoctoral Fellow at the Institute for Mathematics and its Applications at the University of Minnesota for the 2013-2014 thematic year on applications of topology. She also holds a Master of Arts in Mathematics from Duke University, a Bachelor of Science in Mathematics from the University of Rochester, and a Bachelor of Music in Harp Performance from the Eastman School of Music. When she isn't thinking about TDA, she's chasing her two sons around, playing video games, or watching bad sci-fi. |
+
+## Jose Perea
+
+| <img src="/assets/images/speakers/jp.jpg" alt="Jose Perea Munch" height="250px" /> |
+| **TALLEM -- Topological Assembly of LocalLy Euclidean Models** |
+| We present here a new unsupervised topological data analysis tool for data coordinatization, fusion and distributed nonlinear dimensionality reduction. This new methodology, called TALLEM, assembles a collection of local Euclidean coordinates on the data, and leverages ideas from the theory of fiber bundles to yield a global map consistent with the underlying data topology. |
+
+| **Affiliation** | [Michigan State University](https://www.joperea.com) |
+| **Biography** | I got my Ph.D. in Mathematics from [Stanford University](https://www.stanford.edu/) in 2011, and a B.Sc. in Mathematics from [Universidad del Valle](https://www.univalle.edu.co/) (Summa cum laude and Valedictorian) in 2006. I was a postdoc in the department of Mathematics at [Duke](https://duke.edu) from 2011 to 2015, and a member of the Institute for Mathematics and its Applications ([IMA](https://www.ima.umn.edu/2013-2014)) at the University of Minnesota during the Fall of 2014. In August of 2015 I joined [Michigan State University](https://msu.edu/) as an Assistant Professor with joint appointments in the department of Computational Mathematics, Science & Engineering ([CMSE](https://cmse.msu.edu)), and the department of [Mathematics](https://math.msu.edu). My work has been supported by grants from [DARPA](https://www.darpa.mil/), the [National Science Foundation](https://www.nsf.gov/), the [Center for Business and Social Analytics](http://cbsa.msu.edu/), and an [NSF CAREER award](https://www.nsf.gov/career). |
 
 ## Yuzuru Yamakage
 
