@@ -20,9 +20,11 @@ We also welcome extended abstracts of up to 2 pages in length that
 describe open problems, novel applications, or challenges in
 *Topological Data Analysis*, *Topological Machine Learning*, and related
 areas&nbsp;(using the template provided [below](#style)). Again, this length does
-not include references or any supplementary materials. We also permit
-papers that have been recently published or are under submission to
-another venue. Please mark such papers accordingly upon submission.
+not include references or any supplementary materials.
+
+We also permit papers that have been recently published or are under
+submission to another venue. Please mark such papers accordingly upon
+submission. The page limit for these submissions is 4 pages.
 
 Accepted papers and extended abstracts will be presented as brief talks
 of 5--7 minutes length. Authors will also have the option to present
@@ -37,6 +39,7 @@ We only accept submissions that have been prepared using LaTeX. Use the
 following workshop style files for your submission (the PDF file is
 provided as a preview of the expected style):
 
+- [neurips_2020_tda.sty](/assets/neurips_2020_tda.sty)
 - [neurips_2020_tda.tex](/assets/neurips_2020_tda.tex)
 - [neurips_2020_tda.pdf](/assets/neurips_2020_tda.pdf)
 
