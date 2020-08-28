@@ -5,7 +5,10 @@ layout: default
 # Programme Committee
 
 - [Mathieu Carrière](https://mathieucarriere.github.io/website) (Columbia University)
+- [Thomas Gebhart](https://www.gebhartom.com) (University of Minnesota, [@gebhartom](https://twitter.com/gebhartom))
 - [Max Horn](https://expectationmax.github.io) (ETH Zurich, [@ExpectationMax](https://twitter.com/ExpectationMax))
+- [Steve Huntsman](https://scholar.google.com/citations?user=MubPycgAAAAJ) (Systems & Technology Research)
+- [Umberto Lupo](https://github.com/ulupo) (EPFL, [@umbislupo](https://twitter.com/umbislupo))
 - [Michael Moor](https://www.michaelmoor.ml/) (ETH Zurich, [@Michael_D_Moor](https://twitter.com/Michael_D_Moor))
 - [Robin Vandaele](https://users.ugent.be/~rvdaele) (Ghent University) 
 
