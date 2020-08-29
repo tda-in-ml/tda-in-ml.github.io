@@ -10,9 +10,14 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Mathieu Carrière](#mathieu-carrière)
 - [Chao Chen](#chao-chen)
 - [Robert Ghrist](#robert-ghrist)
+- [Kathryn Hess](#kathryn-hess)
 - [Liz Munch](#liz-munch)
 - [Jose Perea](#jose-perea)
 - [Yuzuru Yamakage](#yuzuru-yamakage)
+
+**Keynotes** will be given by:
+
+- [Kathryn Hess](#kathryn-hess)
 
 ## Mathieu Carrière
 
@@ -32,6 +37,15 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [University of Pennsylvania](https://www.math.upenn.edu/~ghrist) | 
 | **Biography** | Robert Ghrist is the Andrea Mitchell PIK Professor of Mathematics and Electrical & Systems Engineering at the University of Pennsylvania. After earning a BS in Mechanical Engineering (University of Toledo, 1991), and the MS and PhD in Applied Mathematics (Cornell University, 1994, 1995), he held positions in Mathematics departments at the University of Texas (Austin), Georgia Tech, and the University of Illinois (Urbana-Champaign). He has been at Penn since 2008. Ghrist is a recognized leader in the field of Applied Algebraic Topology, with publications detailing topological methods for sensor networks, robotics, signal processing, data analysis, optimization, and more. He is the author of a leading textbook on the subject (Elementary Applied Topology, 2014), and has managed numerous large DoD grants from AFOSR, ASDRE, DARPA, and ONR. His research has been recognized with the NSF CAREER, NSF PECASE, SciAm50, and Vannevar Bush Faculty Fellow awards. Ghrist has been an invited speaker at two International Congresses of Mathematicians: once (Madrid 2006) for research and once (Seoul, 2014) for education. Ghrist is a dedicated expositor and communicator of Mathematics, with teaching awards that include the MAA James Crawford Prize, Penn's Lindback Award, and the S. Reid Warren award in Engineering at Penn. Ghrist is the author, designer, and animator of popular YouTube video texts (featuring the Calculus BLUE Project), as well as an online course on Coursera featured in the New York Times, BoingBoing, and Gizmodo. |
+
+## Kathryn Hess
+
+| <img src="/assets/images/speakers/kb.jpg" alt="Kathryn Hess Bellwald" height="250px" /> |
+| **Topological insights in neuroscience** |
+| I will describe two applications of TDA in neuroscience that provide intriguing insights into the relation between between structure and function in networks of neurons. |
+
+| **Affiliation** | [École polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/labs/hessbellwald-lab/hessbellwald) |
+| **Biography** | Kathryn Hess is a professor of mathematics and life sciences at the EPFL.  She received her PhD from MIT and held positions at the universities of Stockholm, Nice, and Toronto before moving to the EPFL. Her research focuses on algebraic topology and its applications, primarily in the life sciences, but also in materials science. On the applied side, she has elaborated methods based on topological data analysis for high-throughput screening of nanoporous crystalline materials, classification and synthesis of neuron morphologies, and classification of neuronal network dynamics.  She has also developed and applied innovative topological approaches to network theory, leading to a powerful, parameter-free mathematical framework relating the activity of a neural network to its underlying structure, both locally and globally. In 2016 she was elected to Swiss Academy of Engineering Sciences and was named a fellow of the American Mathematical Society and a distinguished speaker of the European Mathematical Society in 2017. |
 
 ## Liz Munch
 
