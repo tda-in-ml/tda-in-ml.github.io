@@ -4,6 +4,9 @@ layout: default
 
 # Programme Committee
 
+We are grateful for these plucky researchers that will serve as the
+linchpin in ensuring high-quality reviews of all scientific contributions:
+
 - [Samuelson Tijesunimi Atiba](https://medium.com/@the_samuelson) (RiseVest, [@the_samuelson](https://twitter.com/the_samuelson))
 - [Aishwarya H. Balwani](https://aishwaryahb.github.io) (Georgia Tech, [iishiiyaa](https://twitter.com/iishiiyaa))
 - [Mathieu Carrière](https://mathieucarriere.github.io/website) (Columbia University)
