@@ -4,7 +4,7 @@ layout: default
 
 # Programme Committee
 
-We are grateful for these plucky researchers that will serve as the
+We are grateful for the support of these researchers who will serve as the
 linchpin in ensuring high-quality reviews of all scientific contributions:
 
 - [Samuelson Tijesunimi Atiba](https://medium.com/@the_samuelson) (RiseVest, [@the_samuelson](https://twitter.com/the_samuelson))
