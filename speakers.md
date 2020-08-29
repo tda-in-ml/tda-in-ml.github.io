@@ -7,6 +7,7 @@ layout: default
 We are happy to feature the following awesome speakers&nbsp;(this list
 is expanded on a rolling basis, stay tuned for more!):
 
+- [Andrew J. Blumberg](#andrew-j.-blumberg)
 - [Mathieu Carrière](#mathieu-carrière)
 - [Chao Chen](#chao-chen)
 - [Robert Ghrist](#robert-ghrist)
@@ -18,6 +19,12 @@ is expanded on a rolling basis, stay tuned for more!):
 **Keynotes** will be given by:
 
 - [Kathryn Hess](#kathryn-hess)
+
+## Andrew J. Blumberg
+
+| <img src="/assets/images/speakers/ab.jpg" alt="Andrew J. Blumberg" height="250px" /> |
+
+| **Affiliation** | [University of Texas at Austin](https://web.ma.utexas.edu/users/blumberg) |
 
 ## Mathieu Carrière
 
