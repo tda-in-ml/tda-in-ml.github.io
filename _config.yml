@@ -10,6 +10,7 @@ navigation:
   Speakers: "/speakers"
   Organisers: "/organisers"
   Programme Committee: "/committee"
+  FAQ: "/faq"
 
 markdown: kramdown
 
