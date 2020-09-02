@@ -11,6 +11,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Aishwarya H. Balwani](https://aishwaryahb.github.io) (Georgia Tech, [iishiiyaa](https://twitter.com/iishiiyaa))
 - [Christian Bock](https://christian.bock.ml) (ETH Zurich, [@chrs_bock](https://twitter.com/chrs_bock))
 - [Mathieu Carrière](https://mathieucarriere.github.io/website) (Columbia University)
+- [Adélie Garin](https://www.epfl.ch/labs/hessbellwald-lab/members/adelie-garin) (EPFL)
 - [Thomas Gebhart](https://www.gebhartom.com) (University of Minnesota, [@gebhartom](https://twitter.com/gebhartom))
 - [Max Horn](https://expectationmax.github.io) (ETH Zurich, [@ExpectationMax](https://twitter.com/ExpectationMax))
 - [Steve Huntsman](https://scholar.google.com/citations?user=MubPycgAAAAJ) (Systems & Technology Research)
@@ -20,6 +21,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Hans Riess](https://hans-riess.github.io) (University of Pennsylvania, [@hansmriess](https://twitter.com/hansmriess))
 - [Lewis Tunstall](https://lewtun.github.io/blog) (Swisscom, [@\_lewtun](https://twitter.com/_lewtun))
 - [Robin Vandaele](https://users.ugent.be/~rvdaele) (Ghent University) 
+- [Emily Winn](http://emilytwinn.com) (Brown University, [@EmilyTWinn13](https://twitter.com/EmilyTWinn13))
 
 We are hiring! If you are interested in reviewing contributions, please
 drop us a line at [workshop@topology.rocks](mailto:workshop@topology.rocks).
