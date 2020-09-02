@@ -8,6 +8,7 @@ We are happy to feature the following awesome speakers&nbsp;(this list
 is expanded on a rolling basis, stay tuned for more!):
 
 - [Andrew J. Blumberg](#andrew-j-blumberg)
+- [Gunnar Carlsson](#gunnar-carlsson)
 - [Mathieu Carrière](#mathieu-carrière)
 - [Chao Chen](#chao-chen)
 - [Brittany Terese Fasy](#brittany-terese-fasy)
@@ -19,6 +20,7 @@ is expanded on a rolling basis, stay tuned for more!):
 
 **Keynotes** will be given by:
 
+- [Gunnar Carlsson](#gunnar-carlsson)
 - [Kathryn Hess](#kathryn-hess)
 
 ## Andrew J. Blumberg
@@ -26,6 +28,12 @@ is expanded on a rolling basis, stay tuned for more!):
 | <img src="/assets/images/speakers/ab.jpg" alt="Andrew J. Blumberg" height="250px" /> |
 
 | **Affiliation** | [University of Texas at Austin](https://web.ma.utexas.edu/users/blumberg) |
+
+## Gunnar Carlsson
+
+| <img src="/assets/images/speakers/gc.jpg" alt="Gunnar Carlsson" height="250px" /> |
+
+| **Affiliation** | [Stanford University](http://math.stanford.edu/~gunnar) |
 
 ## Mathieu Carrière
 
