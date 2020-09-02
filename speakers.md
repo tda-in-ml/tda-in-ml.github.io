@@ -96,5 +96,8 @@ is expanded on a rolling basis, stay tuned for more!):
 ## Yuzuru Yamakage
 
 | <img src="/assets/images/speakers/yy.jpg" alt="Yuzuru Yamakage" height="250px" /> |
+| **Industrial Application of TDA-ML technology**: Achievement so far and expectations of future |
+| As DX (Digital Transformation) has been becoming a big key word among almost all industrial players, AI practitioners got many chances to tackle more complex data, which they've not met before. Topological Data Analysis has been recently attracting attention of AI practitioners/Data scientists. Because, TDA would have a great potential to extract hidden features, which current technologies have not successfully found, from complex data by combining with ML technologies.  In this session, I present several industrial use cases of TDA-ML and show TDA-ML capability, which would provide great benefit to DX industries. |
 
 | **Affiliation** | [Fujitsu Ltd.](https://www.researchgate.net/profile/Yuzuru_Yamakage) |
+| **Biography** | Yuzuru Yamakage received his Ph.D. in 1997 from Tohoku University. He then joined Fujitsu Laboratories Ltd. with a focus on Data Analytics Technology. In 2015, he moved to the AI Service Business Unit at Fujitsu Ltd. and became the Director of the AI Service Dept. of the Software Technology Business Unit of Fujitsu Ltd. in 2020. |
