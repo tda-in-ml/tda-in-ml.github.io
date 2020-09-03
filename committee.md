@@ -19,6 +19,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Max Horn](https://expectationmax.github.io) (ETH Zurich, [@ExpectationMax](https://twitter.com/ExpectationMax))
 - [Steve Huntsman](https://scholar.google.com/citations?user=MubPycgAAAAJ) (Systems & Technology Research)
 - [Alvin Jin](https://sites.google.com/view/alvinjin) (KTH Royal Institute of Technology)
+- [Manohar Kaul](https://iith.ac.in/~mkaul) (IIT Hyderabad, [@ManuKaul1](https://twitter.com/ManuKaul1))
 - [Umberto Lupo](https://github.com/ulupo) (EPFL, [@umbislupo](https://twitter.com/umbislupo))
 - [Michael Moor](https://www.michaelmoor.ml/) (ETH Zurich, [@Michael_D_Moor](https://twitter.com/Michael_D_Moor))
 - [Hans Riess](https://hans-riess.github.io) (University of Pennsylvania, [@hansmriess](https://twitter.com/hansmriess))
