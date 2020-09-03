@@ -11,6 +11,7 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Gunnar Carlsson](#gunnar-carlsson)
 - [Mathieu Carrière](#mathieu-carrière)
 - [Chao Chen](#chao-chen)
+- [Lorin Crawford](#lorin-crawford)
 - [Brittany Terese Fasy](#brittany-terese-fasy)
 - [Robert Ghrist](#robert-ghrist)
 - [Kathryn Hess](#kathryn-hess)
@@ -46,6 +47,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | <img src="/assets/images/speakers/cc.jpg" alt="Chao Chen" height="250px" /> |
 
 | **Affiliation** | [Stony Brook University](https://bmi.stonybrookmedicine.edu/people/chao_chen) |
+
+## Lorin Crawford
+
+| <img src="/assets/images/speakers/lc.jpg" alt="Lorin Crawford" height="250px" /> |
+| **A Machine Learning Pipeline for Feature Selection and Association Mapping with 3D Shapes** |
+| It has been a long-standing challenge to implement an analogue of variable selection with 3D shapes as the covariates in a regression model. Here, we present SINATRA, a statistical pipeline for sub-image selection where the goal is to identify the physical features of 3D shapes that best explain the variation between two trait classes. A key insight is that, one can use tools from differential topology to transform objects represented as meshes into a collection of vectors (with little to no loss of information about their natural structure).  Since this topological transformation is invertible, SINATRA uses an interpretable machine learning algorithm to map significant vector indices back onto the original shapes — thus, highlighting the physical 3D shape characteristics that best distinguish members in the two groups. As an application of our pipeline, we conduct feature selection on a dataset consisting of mandibular molars from five different genera of New World Monkeys and examine the physical properties of their teeth that best characterize their dietary regimens. |
+
+| **Affiliation** | [Microsoft Research & Brown University](https://vivo.brown.edu/display/lcrawfo1) |
+| **Twitter** | [@lorin_crawford](https://twitter.com/lorin_crawford) |
+| **Biography** | Lorin Crawford is a Senior Researcher at Microsoft Research New England.  He also holds a position as the RGSS Assistant Professor of Biostatistics at Brown University. His scientific research interests involve the development of novel and efficient computational methodologies to address complex problems in statistical genetics, cancer pharmacology, and radiomics (e.g., cancer imaging). Dr. Crawford has an extensive background in modeling massive data sets of high-throughput molecular information as it pertains to functional genomics and cellular-based biological processes. His most recent work has earned him a place on Forbes 30 Under 30 list, The Root 100 Most Influential African Americans list, and recognition as an Alfred P.  Sloan Research Fellow. |
 
 ## Brittany Terese Fasy
 
