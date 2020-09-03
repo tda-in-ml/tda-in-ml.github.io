@@ -23,6 +23,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Umberto Lupo](https://github.com/ulupo) (EPFL, [@umbislupo](https://twitter.com/umbislupo))
 - [Michael Moor](https://www.michaelmoor.ml/) (ETH Zurich, [@Michael_D_Moor](https://twitter.com/Michael_D_Moor))
 - [Hans Riess](https://hans-riess.github.io) (University of Pennsylvania, [@hansmriess](https://twitter.com/hansmriess))
+- [Don Sheehy](http://donsheehy.net) (North Carolina State University)
 - [Lewis Tunstall](https://lewtun.github.io/blog) (Swisscom, [@\_lewtun](https://twitter.com/_lewtun))
 - [Robin Vandaele](https://users.ugent.be/~rvdaele) (Ghent University) 
 - [Emily Winn](http://emilytwinn.com) (Brown University, [@EmilyTWinn13](https://twitter.com/EmilyTWinn13))
