@@ -12,6 +12,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Nello Blaser](https://folk.uib.no/nbl003/index.html) (University of Bergen, Norway)
 - [Christian Bock](https://christian.bock.ml) (ETH Zurich, [@chrs_bock](https://twitter.com/chrs_bock))
 - [Mathieu Carrière](https://mathieucarriere.github.io/website) (Columbia University)
+- [Lorin Crawford](https://vivo.brown.edu/display/lcrawfo1) (Microsoft Research & Brown University, [@lorin_crawford](https://twitter.com/lorin_crawford))
 - [Stefania Ebli](https://people.epfl.ch/stefania.ebli?lang=en) (EPFL)
 - [Adélie Garin](https://www.epfl.ch/labs/hessbellwald-lab/members/adelie-garin) (EPFL)
 - [Thomas Gebhart](https://www.gebhartom.com) (University of Minnesota, [@gebhartom](https://twitter.com/gebhartom))
