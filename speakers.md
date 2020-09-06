@@ -17,6 +17,7 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Kathryn Hess](#kathryn-hess)
 - [Liz Munch](#liz-munch)
 - [Jose Perea](#jose-perea)
+- [Bei Wang](#bei-wang)
 - [Yuzuru Yamakage](#yuzuru-yamakage)
 
 **Keynotes** will be given by:
@@ -103,6 +104,16 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [Michigan State University](https://www.joperea.com) |
 | **Biography** | I got my Ph.D. in Mathematics from [Stanford University](https://www.stanford.edu/) in 2011, and a B.Sc. in Mathematics from [Universidad del Valle](https://www.univalle.edu.co/) (Summa cum laude and Valedictorian) in 2006. I was a postdoc in the department of Mathematics at [Duke](https://duke.edu) from 2011 to 2015, and a member of the Institute for Mathematics and its Applications ([IMA](https://www.ima.umn.edu/2013-2014)) at the University of Minnesota during the Fall of 2014. In August of 2015 I joined [Michigan State University](https://msu.edu/) as an Assistant Professor with joint appointments in the department of Computational Mathematics, Science & Engineering ([CMSE](https://cmse.msu.edu)), and the department of [Mathematics](https://math.msu.edu). My work has been supported by grants from [DARPA](https://www.darpa.mil/), the [National Science Foundation](https://www.nsf.gov/), the [Center for Business and Social Analytics](http://cbsa.msu.edu/), and an [NSF CAREER award](https://www.nsf.gov/career). |
+
+## Bei Wang
+
+| <img src="/assets/images/speakers/bw.jpg" alt="Bei Wang" height="250px" /> |
+| **Topology and Neuron Activations in Deep Learning** |
+| Deep convolutional neural networks have become ubiquitous in image classification tasks thanks to architectures such as GoogLeNet and ResNet. However, we do not quite understand how these networks achieve their impressive performance. The main challenge in deep learning is the interpretability: How can we make the representations learned by these networks human interpretable? Given a trained deep neural network, we can address the interpretability issue by probing neuron activations, that is, the combinations of neuron firings, in response to a particular input image. With millions of input images, we can obtain a global view of what the neurons have learned by studying neuron activations at a particular layer and across multiple layers.  We aim to shed light on the following questions using topological tools: What is the shape of the activation space? What is the organizational principle behind neuron activations? |
+
+| **Affiliation** | [University of Utah](http://www.sci.utah.edu/~beiwang) |
+| **Twitter** | [@beiphillips](https://twitter.com/beiphillips) |
+| **Biography** | Bei Wang is an assistant professor at the School of Computing and a faculty member in the Scientific Computing and Imaging (SCI) Institute, University of Utah. She received her Ph.D. in Computer Science from Duke University.  Her research interests include topological data analysis, data visualization, computational topology, machine learning, and data mining.  Her work spans both theoretical and applied research. Some of her recent research activities draw inspirations from topology, geometry, and machine learning, in studying brain networks, vector fields, tensor fields, and high-dimensional point clouds that arise from scientific simulations. |
 
 ## Yuzuru Yamakage
 
