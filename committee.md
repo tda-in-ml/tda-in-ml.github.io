@@ -23,6 +23,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Alvin Jin](https://sites.google.com/view/alvinjin) (KTH Royal Institute of Technology)
 - [Anna Jurek-Loughrey](https://pure.qub.ac.uk/en/persons/anna-jurek-loughrey) (Queen's University Belfast)
 - [Manohar Kaul](https://iith.ac.in/~mkaul) (IIT Hyderabad, [@ManuKaul1](https://twitter.com/ManuKaul1))
+- [Ismini Lourentzou](https://isminoula.github.io) (IBM Research, [@ismini_l](https://twitter.com/ismini_l))
 - [Umberto Lupo](https://github.com/ulupo) (EPFL, [@umbislupo](https://twitter.com/umbislupo))
 - [Michael Moor](https://www.michaelmoor.ml/) (ETH Zurich, [@Michael_D_Moor](https://twitter.com/Michael_D_Moor))
 - [Hans Riess](https://hans-riess.github.io) (University of Pennsylvania, [@hansmriess](https://twitter.com/hansmriess))
