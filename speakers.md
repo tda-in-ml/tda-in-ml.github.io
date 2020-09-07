@@ -18,6 +18,7 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Liz Munch](#liz-munch)
 - [Jose Perea](#jose-perea)
 - [Bei Wang](#bei-wang)
+- [Yusu Wang](#yusu-wang)
 - [Yuzuru Yamakage](#yuzuru-yamakage)
 
 **Keynotes** will be given by:
@@ -114,6 +115,12 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Affiliation** | [University of Utah](http://www.sci.utah.edu/~beiwang) |
 | **Twitter** | [@beiphillips](https://twitter.com/beiphillips) |
 | **Biography** | Bei Wang is an assistant professor at the School of Computing and a faculty member in the Scientific Computing and Imaging (SCI) Institute, University of Utah. She received her Ph.D. in Computer Science from Duke University.  Her research interests include topological data analysis, data visualization, computational topology, machine learning, and data mining.  Her work spans both theoretical and applied research. Some of her recent research activities draw inspirations from topology, geometry, and machine learning, in studying brain networks, vector fields, tensor fields, and high-dimensional point clouds that arise from scientific simulations. |
+
+## Yusu Wang
+
+| <img src="/assets/images/speakers/yw.jpg" alt="Yusu Wang" height="250px" /> |
+
+| **Affiliation** | [University of California, San Diego](http://yusu.belkin-wang.org/) |
 
 ## Yuzuru Yamakage
 
