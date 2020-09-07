@@ -17,6 +17,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Stefania Ebli](https://people.epfl.ch/stefania.ebli?lang=en) (EPFL)
 - [Adélie Garin](https://www.epfl.ch/labs/hessbellwald-lab/members/adelie-garin) (EPFL)
 - [Thomas Gebhart](https://www.gebhartom.com) (University of Minnesota, [@gebhartom](https://twitter.com/gebhartom))
+- [Daniel Goldsmith](https://www.danielgoldsmith.net) (Yeshiva University & Heights Labs, [@daniel_goldsmth](https://twitter.com/daniel_goldsmth))
 - [Celia Hacker](https://people.epfl.ch/celia.hacker?lang=en) (EPFL)
 - [Max Horn](https://expectationmax.github.io) (ETH Zurich, [@ExpectationMax](https://twitter.com/ExpectationMax))
 - [Steve Huntsman](https://scholar.google.com/citations?user=MubPycgAAAAJ) (Systems & Technology Research)
