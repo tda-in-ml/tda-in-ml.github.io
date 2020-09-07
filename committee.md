@@ -29,6 +29,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Don Sheehy](http://donsheehy.net) (North Carolina State University)
 - [Lewis Tunstall](https://lewtun.github.io/blog) (Swisscom, [@\_lewtun](https://twitter.com/_lewtun))
 - [Robin Vandaele](https://users.ugent.be/~rvdaele) (Ghent University) 
+- [Yusu Wang](http://yusu.belkin-wang.org) (University of California, San Diego)
 - [Caroline Weis](https://weis.ml) (ETH Zurich, [@caroline_v_weis](https://twitter.com/caroline_v_weis))
 - [Emily Winn](http://emilytwinn.com) (Brown University, [@EmilyTWinn13](https://twitter.com/EmilyTWinn13))
 
