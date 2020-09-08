@@ -8,6 +8,7 @@ We are happy to feature the following awesome speakers&nbsp;(this list
 is expanded on a rolling basis, stay tuned for more!):
 
 - [Andrew J. Blumberg](#andrew-j-blumberg)
+- [Peter Bubenik](#peter-bubenik)
 - [Gunnar Carlsson](#gunnar-carlsson)
 - [Mathieu Carrière](#mathieu-carrière)
 - [Chao Chen](#chao-chen)
@@ -34,6 +35,12 @@ is expanded on a rolling basis, stay tuned for more!):
 | <img src="/assets/images/speakers/ab.jpg" alt="Andrew J. Blumberg" height="250px" /> |
 
 | **Affiliation** | [University of Texas at Austin](https://web.ma.utexas.edu/users/blumberg) |
+
+## Peter Bubenik
+
+| <img src="/assets/images/speakers/pb.jpg" alt="Peter Bubenik" height="250px" /> |
+
+| **Affiliation** | [University of Florida](https://people.clas.ufl.edu/peterbubenik) |
 
 ## Gunnar Carlsson
 
