@@ -16,6 +16,7 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Brittany Terese Fasy](#brittany-terese-fasy)
 - [Robert Ghrist](#robert-ghrist)
 - [Kathryn Hess](#kathryn-hess)
+- [Yasu Hiraoka](#yasu-hiraoka)
 - [Leland McInnes](#leland-mcinnes)
 - [Liz Munch](#liz-munch)
 - [Jose Perea](#jose-perea)
@@ -96,6 +97,12 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [École polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/labs/hessbellwald-lab/hessbellwald) |
 | **Biography** | Kathryn Hess is a professor of mathematics and life sciences at the EPFL.  She received her PhD from MIT and held positions at the universities of Stockholm, Nice, and Toronto before moving to the EPFL. Her research focuses on algebraic topology and its applications, primarily in the life sciences, but also in materials science. On the applied side, she has elaborated methods based on topological data analysis for high-throughput screening of nanoporous crystalline materials, classification and synthesis of neuron morphologies, and classification of neuronal network dynamics.  She has also developed and applied innovative topological approaches to network theory, leading to a powerful, parameter-free mathematical framework relating the activity of a neural network to its underlying structure, both locally and globally. In 2016 she was elected to Swiss Academy of Engineering Sciences and was named a fellow of the American Mathematical Society and a distinguished speaker of the European Mathematical Society in 2017. |
+
+## Yasu Hiraoka
+
+| <img src="/assets/images/speakers/yh.jpg" alt="Yasu Hiraoka" height="250px" /> |
+
+| **Affiliation** | [Kyoto University](https://sites.google.com/site/yasuakihiraoka) |
 
 ## Leland McInnes
 
