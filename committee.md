@@ -10,6 +10,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Michaël Aupetit](https://www.hbku.edu.qa/en/staff/dr-micha%C3%ABl-aupetit) (Hamad Bin Khalifa University, [@MichaelAupetit](https://twitter.com/michaelaupetit))
 - [Samuelson Tijesunimi Atiba](https://medium.com/@the_samuelson) (RiseVest, [@the_samuelson](https://twitter.com/the_samuelson))
 - [Aishwarya H. Balwani](https://aishwaryahb.github.io) (Georgia Tech, [iishiiyaa](https://twitter.com/iishiiyaa))
+- [Serguei Barannikov](https://webusers.imj-prg.fr/serguei.barannikov) (IMJ Paris University)
 - [Nello Blaser](https://folk.uib.no/nbl003/index.html) (University of Bergen, Norway)
 - [Christian Bock](https://christian.bock.ml) (ETH Zurich, [@chrs_bock](https://twitter.com/chrs_bock))
 - [Cristian Bodnar](https://crisbodnar.github.io) (Cambridge University, [@cristianbodnar](https://twitter.com/cristianbodnar))
