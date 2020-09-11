@@ -33,6 +33,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Hans Riess](https://hans-riess.github.io) (University of Pennsylvania, [@hansmriess](https://twitter.com/hansmriess))
 - [Don Sheehy](http://donsheehy.net) (North Carolina State University)
 - [Lewis Tunstall](https://lewtun.github.io/blog) (Swisscom, [@\_lewtun](https://twitter.com/_lewtun))
+- [Jónathan Heras Vicente](https://www.unirioja.es/cu/joheras) (University of La Rioja, [@\_jonathan_heras](https://twitter.com/_jonathan_heras))
 - [Robin Vandaele](https://users.ugent.be/~rvdaele) (Ghent University) 
 - [Yusu Wang](http://yusu.belkin-wang.org) (University of California, San Diego)
 - [Caroline Weis](https://weis.ml) (ETH Zurich, [@caroline_v_weis](https://twitter.com/caroline_v_weis))
