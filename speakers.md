@@ -102,8 +102,11 @@ is expanded on a rolling basis, stay tuned for more!):
 ## Yasu Hiraoka
 
 | <img src="/assets/images/speakers/yh.jpg" alt="Yasu Hiraoka" height="250px" /> |
+| **Characterizing rare events in persistent homology** |
+| Indecomposables obtained through decompositions of persistent homology are regarded as topological summary of real data. However, as is well known, there exist pathologically complicated indecomposables in multi-parameter persistent homology in purely algebraic setting, and this fact makes it difficult to build mathematical theory on that setting. Our fundamental question is, how much should we care about such complicated indecomposables in the real data, and what is a suitable framework to study this question? To this aim, we will show several ongoing results, especially, (1) large deviation principle on 1 parameter persistent homology, and (2) law of large numbers on multi-parameter persistent homology. Then we will discuss how these two results (partially) answer to the original question. |
 
 | **Affiliation** | [Kyoto University](https://sites.google.com/site/yasuakihiraoka) |
+| **Biography** | Yasu Hiraoka is a professor of Kyoto University Institute for the Advanced Study (KUIAS) at Kyoto University. He studies mathematical theory and algorithm of TDA, and also works on applying them into scientific and engineering problems. His primary interest is to develop descriptors for characterizing shape of complex and big data. By combining various mathematical theories such as topology, representation theory, probability theory, he succeeded in making TDA powerful and general for practical problems. In applications, he has organized the materials TDA team, and his group achieved several pioneering results on structural analysis in materials science based on TDA. In particular, a series of methods developed by his group using persistent homology, machine learning, and inverse analysis are expected to be a key technology for materials informatics in future. In addition to materials science, he has recently launched TDA projects on other application areas such as life science and economics. |
 
 ## Leland McInnes
 
