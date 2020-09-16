@@ -18,6 +18,7 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Kathryn Hess](#kathryn-hess)
 - [Yasu Hiraoka](#yasu-hiraoka)
 - [Leland McInnes](#leland-mcinnes)
+- [Facundo Memoli](#facundo-memoli)
 - [Liz Munch](#liz-munch)
 - [Jose Perea](#jose-perea)
 - [Raúl Rabadán](#raúl-rabadán)
@@ -113,6 +114,15 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Affiliation** | [Tutte Institute for Mathematics and Computing](https://github.com/lmcinnes) |
 | **Twitter** | [@leland_mcinnes](https://twitter.com/leland_mcinnes) | 
 | **Biography** | Leland McInnes is a researcher at the Tutte Institute for Mathematics and Computing working on topologically motivated methods in data science. He balances his time between theoretical research, software engineering and implementation, and domain specific problems. |
+
+## Facundo Memoli
+
+| <img src="/assets/images/speakers/fm.jpg" alt="Facundo Memoli" height="250px" /> |
+| **Spatiotemporal Persistent Homology for Dynamic Metric Spaces** |
+| Characterizing the dynamics of time-evolving data within the framework of topological data analysis (TDA) has been attracting increasingly more attention. Popular instances of time-evolving data include flocking/swarming behaviors in animals and social networks in the human sphere. A natural mathematical model for such collective behaviors is a dynamic point cloud, or more generally a dynamic metric space (DMS).  We show how to extend the Rips filtration stability result for (static) metric spaces to the setting of DMSs, while retaining stability. We identify polynomial time computable invariants and associated pseudodistances, and provide software implementations which can be used for practical tasks. This is joint work with Woojin Kim (Duke) and Nate Clause (OSU); see <https://github.com/ndag/PHoDMSs>. |
+
+| **Affiliation** | [Ohio State University](https://people.math.osu.edu/memolitechera.1) |
+| **Biography** | Facundo Memoli is a professor in the Department of Mathematics and in the Department of Computer Science and Engineering at the Ohio State University. his research interests include topics in the intersection of metric geometry, topology, optimal transport, and applications to science and engineering such as topological data analysis, and networks. |
 
 ## Liz Munch
 
