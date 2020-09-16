@@ -29,6 +29,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Ismini Lourentzou](https://isminoula.github.io) (IBM Research, [@ismini_l](https://twitter.com/ismini_l))
 - [Umberto Lupo](https://github.com/ulupo) (EPFL, [@umbislupo](https://twitter.com/umbislupo))
 - [Michael Moor](https://www.michaelmoor.ml/) (ETH Zurich, [@Michael_D_Moor](https://twitter.com/Michael_D_Moor))
+- [Eduardo Paluzo](https://personal.us.es/epaluzo/index.html) (University of Seville, [@eduardo_palzuo](https://twitter.com/eduardo_paluzo))
 - [Florian T. Pokorny](http://www.csc.kth.se/~fpokorny) (KTH Royal Institute of Technology, [@ftpokorny](https://twitter.com/ftpokorny))
 - [Hans Riess](https://hans-riess.github.io) (University of Pennsylvania, [@hansmriess](https://twitter.com/hansmriess))
 - [Don Sheehy](http://donsheehy.net) (North Carolina State University)
