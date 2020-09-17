@@ -22,6 +22,7 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Liz Munch](#liz-munch)
 - [Jose Perea](#jose-perea)
 - [Raúl Rabadán](#raúl-rabadán)
+- [Katharine Turner](#katharine-turner)
 - [Bei Wang](#bei-wang)
 - [Yusu Wang](#yusu-wang)
 - [Yuzuru Yamakage](#yuzuru-yamakage)
@@ -152,6 +153,14 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [Columbia University](https://rabadan.c2b2.columbia.edu) |
 | **Biography** | Raul Rabadan is the Gerald and Janet Carrus Professor in the [Departments of Systems Biology](http://systemsbiology.columbia.edu/), [Biomedical Informatics](https://www.dbmi.columbia.edu/) and Surgery at [Columbia University](http://www.columbia.edu/). He is the director of the [Program for Mathematical Genomics](https://systemsbiology.columbia.edu/the-program-for-mathematical-genomics) at Columbia University and the NCI [Center for Topology of Cancer Evolution and Heterogeneity](https://psoc.c2b2.columbia.edu/). From 2001 to 2003, Dr. Rabadan was a fellow at the [Theoretical Physics Division](http://ph-dep-th.web.cern.ch/ph-dep-th/) at [CERN](http://public.web.cern.ch/public/), the European Organization for Nuclear Research, in Geneva, Switzerland. In 2003 he joined the Physics Group of the [School of Natural Sciences](http://www.sns.ias.edu/) at the [Institute for Advanced Study](http://www.ias.edu/). Previously, Dr. Rabadan was the Martin A. and Helen Chooljian Member at [The Simons Center for Systems Biology](http://www.sns.ias.edu/csb) at the [Institute for Advanced Study](http://www.ias.edu/) in Princeton, New Jersey. He has been named one of Popular Science's [Brilliant 10](http://www.popsci.com/science/article/2010-10/brilliant-10-raul-rabadan-outbreak-sleuth) (2010), a Stewart Trust Fellow (2013), and he received the Harold and Golden Lamport Award at Columbia University (2014) and the Diz Pintado award (2018). Dr. Rabadan’s current interest focuses on uncovering patterns of evolution in biological systems through the lens of genomics. His recent interests include the development of mathematical approaches to uncover the evolution of cancer and infectious diseases, including topological data analysis and Random Matrix Theory, among others. |
+
+## Katharine Turner
+
+| **Affiliation** | [Australian National University](https://maths.anu.edu.au/people/academics/katharine-turner) |
+| **Biography** | Katharine Turner was an undergraduate at the University of Sydney and then did her PhD with Shmuel Weinberger at the University of Chicago (2015). After a postdoc at EPFL working with both Kathryn Hess and Victor Panaretos, she returned back down under and joined the Mathematical Sciences Institute at the Australian National University from 2017 as a Lecturer. In 2020 she was awarded an Discovery Early Career Research Award by the Australian Research Council. |
+
+| **Wasserstein Stability for Persistence Diagrams** |
+| The stability of persistence diagrams is among the most important results in applied and computational topology but most results are with respect to the bottleneck distance between diagrams. This has two main implications: it makes the space of persistence diagrams rather pathological and it is often provides very pessimistic bounds with respect to outliers. In this talk I will discuss new stability results with respect to the p-Wasserstein distance between persistence diagrams. The foundations are cellular stability functions on sufficiently finite spaces in terms of the p-norm of the perturbations. This has applications to image analysis, persistence homology transforms and Vietoris-Rips complexes. This is joint work with Primoz Skraba. |
 
 ## Bei Wang
 
