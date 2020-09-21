@@ -20,6 +20,7 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Leland McInnes](#leland-mcinnes)
 - [Facundo Memoli](#facundo-memoli)
 - [Liz Munch](#liz-munch)
+- [Vidit Nanda](#vidit-nanda)
 - [Jose Perea](#jose-perea)
 - [Raúl Rabadán](#raúl-rabadán)
 - [Katharine Turner](#katharine-turner)
@@ -137,6 +138,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Affiliation** | [Michigan State University](http://elizabethmunch.com) |
 | **Twitter** | [@elizabethmunch](https://twitter.com/elizabethmunch) | 
 | **Biography** | Liz received her PhD from the Department of Mathematics at Duke University in May 2013. Prior to joining the faculty of Michigan State University, she was an Assistant Professor in the Department of Mathematics and Statistics at the University at Albany - SUNY, and a Postdoctoral Fellow at the Institute for Mathematics and its Applications at the University of Minnesota for the 2013-2014 thematic year on applications of topology. She also holds a Master of Arts in Mathematics from Duke University, a Bachelor of Science in Mathematics from the University of Rochester, and a Bachelor of Music in Harp Performance from the Eastman School of Music. When she isn't thinking about TDA, she's chasing her two sons around, playing video games, or watching bad sci-fi. |
+
+## Vidit Nanda
+
+| <img src="/assets/images/speakers/vn.jpg" alt="Vidit Nanda" height="250px" /> |
+| **Singularity detection in data** |
+| I will describe a new and efficient topological technique to detect manifold-intersections and other singularities directly from finite point samples. The method makes use of local persistent homology computations around tiny annular neighborhoods of sampled data points, and works even when none of those points have been sampled from the singular regions. All of this is joint work with B Stolz, H Harrington and J Tanner. |
+
+| **Affiliation** | [University of Oxford](http://people.maths.ox.ac.uk/nanda) |
+| **Twitter** | [@viditnanda](https://twitter.com/viditnanda) | 
+| **Biography** | Vidit Nanda is an Associate Professor of Mathematics at Oxford, working broadly in the field of applied algebraic topology. Before coming to Oxford, he held postdoctoral positions at the Institute for Advanced Study, the Alan Turing Institute, and the University of Pennsylvania. |
 
 ## Jose Perea
 
