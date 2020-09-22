@@ -18,7 +18,7 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Kathryn Hess](#kathryn-hess)
 - [Yasu Hiraoka](#yasu-hiraoka)
 - [Leland McInnes](#leland-mcinnes)
-- [Facundo Memoli](#facundo-memoli)
+- [Facundo Mémoli](#facundo-memoli)
 - [Liz Munch](#liz-munch)
 - [Vidit Nanda](#vidit-nanda)
 - [Jose Perea](#jose-perea)
