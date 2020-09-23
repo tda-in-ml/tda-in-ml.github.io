@@ -7,6 +7,7 @@ layout: default
 We are happy to feature the following awesome speakers&nbsp;(this list
 is expanded on a rolling basis, stay tuned for more!):
 
+- [Serguei Barannikov](#serguei-barannikov)
 - [Andrew J. Blumberg](#andrew-j-blumberg)
 - [Peter Bubenik](#peter-bubenik)
 - [Gunnar Carlsson](#gunnar-carlsson)
@@ -33,6 +34,15 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Gunnar Carlsson](#gunnar-carlsson)
 - [Kathryn Hess](#kathryn-hess)
 - [Raúl Rabadán](#raúl-rabadán)
+
+## Serguei Barannikov
+
+| <img src="/assets/images/speakers/sb.jpg" alt="Sergue Barannikov" height="250px" /> |
+| **Topological obstructions to neural networks' learning score** |
+| We apply topological data analysis tools to studying loss surfaces of neural networks. This is a joint work with G. Sotnikov, A. Korotin, D. Oganesyan, D. Emtsev, E. Burnaev. | 
+
+| **Affiliation** | [Skoltech & Paris Diderot University](https://webusers.imj-prg.fr/serguei.barannikov) |
+| **Biography** | Serguei Barannikov received his PhD in Mathematics from the University of California, Berkeley (1999). He is a leading research scientist at Skolkovo Institute of Science and Technology. He also holds a position as a CNRS researcher at Paris Diderot University.  He worked as a researcher in mathematics at Institut des Hautes Etudes Scientifiques and at Ecole Normale Supérieure in Paris.  At the age of 20, Barannikov wrote a paper on algebraic topology, in which he introduced "canonical form" invariants of filtered complexes, together with an efficient algorithm for their calculation. Ten years later, these invariants became widely used in topological data analysis under the name of "persistence barcodes" and "persistence diagrams". Dr. Barannikov's recent interests focus on applying  topological data analysis methods to reveal patterns in learning of neural networks. | 
 
 ## Andrew J. Blumberg
 
