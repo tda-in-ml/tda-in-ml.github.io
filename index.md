@@ -12,7 +12,7 @@ Join our Slack workspace [TDA in ML](https://tda-in-ml.slack.com/join/shared_inv
 Use the channel `#neurips2020_workshop` to communicate with the
 attendees and the organisers.
 
-# Overview
+# What's this all about?
  
 The last decade saw an enormous boost in the field of computational
 topology: methods and concepts from algebraic and differential topology,
