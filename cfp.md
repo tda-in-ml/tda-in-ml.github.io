@@ -4,10 +4,10 @@ layout: default
 
 # Call for Papers
 
-The submission deadline was extended to **7 October 2020 (23:59 AoE)**.
+The submission deadline was extended to **9 October 2020 (23:59 AoE)**.
 
 | **Submission**          |[https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/TDA_and_Beyond](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/TDA_and_Beyond)|
-| **Deadline**            |Friday,  ~~2~~ **7** October 2020 (23:59 AoE)|
+| **Deadline**            |Friday,  ~~2~~ **9** October 2020 (23:59 AoE)|
 | **Author notification** |Friday, 30 October 2020 (23:59 AoE)|
 
 We welcome all original research papers of up to 4 pages in length,
