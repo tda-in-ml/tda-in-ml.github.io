@@ -8,6 +8,7 @@ We are grateful for the support of these researchers who will serve as the
 linchpin in ensuring high-quality reviews of all scientific contributions:
 
 - [Michaël Aupetit](https://www.hbku.edu.qa/en/staff/dr-micha%C3%ABl-aupetit) (Hamad Bin Khalifa University, [@MichaelAupetit](https://twitter.com/michaelaupetit))
+- [Rayna Andreeva](http://www.inf.ed.ac.uk/people/students/Rayna_Andreeva.html) (University of Edingburgh, [@randreeva1](https://twitter.com/randreeva1))
 - [Samuelson Tijesunimi Atiba](https://medium.com/@the_samuelson) (RiseVest, [@the_samuelson](https://twitter.com/the_samuelson))
 - [Aishwarya H. Balwani](https://aishwaryahb.github.io) (Georgia Tech, [iishiiyaa](https://twitter.com/iishiiyaa))
 - [Serguei Barannikov](https://webusers.imj-prg.fr/serguei.barannikov) (IMJ Paris University)
