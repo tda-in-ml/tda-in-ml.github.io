@@ -36,6 +36,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Eduardo Paluzo](https://personal.us.es/epaluzo/index.html) (University of Seville, [@epaluzohidalgo](https://twitter.com/epaluzohidalgo))
 - [Florian T. Pokorny](http://www.csc.kth.se/~fpokorny) (KTH Royal Institute of Technology, [@ftpokorny](https://twitter.com/ftpokorny))
 - [Hans Riess](https://hans-riess.github.io) (University of Pennsylvania, [@hansmriess](https://twitter.com/hansmriess))
+- [Udit Saxena](https://uditsaxena.github.io) (Sumo Logic, [https://twitter.com/saxenaudit](saxenaudit))
 - [Don Sheehy](http://donsheehy.net) (North Carolina State University)
 - [Dan Shiebler](http://danshiebler.com/) (University of Oxford, [@dshieble](https://twitter.com/dshieble))
 - [Lewis Tunstall](https://lewtun.github.io/blog) (Swisscom, [@\_lewtun](https://twitter.com/_lewtun))
