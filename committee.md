@@ -25,6 +25,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Celia Hacker](https://people.epfl.ch/celia.hacker?lang=en) (EPFL)
 - [Max Horn](https://expectationmax.github.io) (ETH Zurich, [@ExpectationMax](https://twitter.com/ExpectationMax))
 - [Steve Huntsman](https://scholar.google.com/citations?user=MubPycgAAAAJ) (Systems & Technology Research)
+- [Paul Samuel Ignacio](https://paulsamuelignacio.weebly.com) (University of the Philippines Baguio)
 - [Alvin Jin](https://sites.google.com/view/alvinjin) (KTH Royal Institute of Technology)
 - [Anna Jurek-Loughrey](https://pure.qub.ac.uk/en/persons/anna-jurek-loughrey) (Queen's University Belfast)
 - [Manohar Kaul](https://iith.ac.in/~mkaul) (IIT Hyderabad, [@ManuKaul1](https://twitter.com/ManuKaul1))
