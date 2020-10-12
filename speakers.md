@@ -8,6 +8,7 @@ We are happy to feature the following awesome speakers&nbsp;(this list
 is expanded on a rolling basis, stay tuned for more!):
 
 - [Serguei Barannikov](#serguei-barannikov)
+- [Ulrich Bauer](#ulrich-bauer)
 - [Andrew J. Blumberg](#andrew-j-blumberg)
 - [Peter Bubenik](#peter-bubenik)
 - [Gunnar Carlsson](#gunnar-carlsson)
@@ -43,6 +44,13 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [Skoltech & Paris Diderot University](https://webusers.imj-prg.fr/serguei.barannikov) |
 | **Biography** | Serguei Barannikov received his PhD in Mathematics from the University of California, Berkeley (1999). He is a leading research scientist at Skolkovo Institute of Science and Technology. He also holds a position as a CNRS researcher at Paris Diderot University.  He worked as a researcher in mathematics at Institut des Hautes Etudes Scientifiques and at Ecole Normale Supérieure in Paris.  At the age of 20, Barannikov wrote a paper on algebraic topology, in which he introduced "canonical form" invariants of filtered complexes, together with an efficient algorithm for their calculation. Ten years later, these invariants became widely used in topological data analysis under the name of "persistence barcodes" and "persistence diagrams". Dr. Barannikov's recent interests focus on applying  topological data analysis methods to reveal patterns in learning of neural networks. | 
+
+## Ulrich Bauer
+
+| <img src="/assets/images/speakers/ub.jpg" alt="Ulrich Bauer" height="250px" /> |
+
+| **Affiliation** | [Technical University of Munich](https://ulrich-bauer.org) |
+| **Biography** | Ulrich Bauer is an assistant professor in the department of mathematics at the Technical University of Munich (TUM), leading the Applied & Computation Topology group. His research revolves around application-motivated concepts and computational methods in topology and geometry, popularized by application areas such as topological data analysis. Some of his key research areas are persistent homology, discrete Morse theory, and geometric complexes. Ulrich is the author of [Ripser](https://github.com/Ripser/ripser), a leading software for the computation of Vietoris–Rips persistence barcodes. He is also an editor of the Journal of Applied and Computational Topology. | 
 
 ## Andrew J. Blumberg
 
