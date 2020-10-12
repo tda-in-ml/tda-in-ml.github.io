@@ -45,9 +45,5 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Sarah Tymochko](https://www.egr.msu.edu/~tymochko) (Michigan State University, [@sarahtymochko](https://twitter.com/sarahtymochko))
 - [Jónathan Heras Vicente](https://www.unirioja.es/cu/joheras) (University of La Rioja, [@\_jonathan_heras](https://twitter.com/_jonathan_heras))
 - [Robin Vandaele](https://users.ugent.be/~rvdaele) (Ghent University) 
-- [Yusu Wang](http://yusu.belkin-wang.org) (University of California, San Diego)
 - [Caroline Weis](https://weis.ml) (ETH Zurich, [@caroline_v_weis](https://twitter.com/caroline_v_weis))
 - [Emily Winn](http://emilytwinn.com) (Brown University, [@EmilyTWinn13](https://twitter.com/EmilyTWinn13))
-
-We are hiring! If you are interested in reviewing contributions, please
-drop us a line at [workshop@topology.rocks](mailto:workshop@topology.rocks).
