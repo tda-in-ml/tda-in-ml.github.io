@@ -74,7 +74,7 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | <img src="/assets/images/speakers/mc.jpg" alt="Mathieu Carrière" height="250px" /> |
 
-| **Affiliation** | [Columbia University](https://mathieucarriere.github.io/website/) |
+| **Affiliation** | [Inria Sophia Antipolis](https://mathieucarriere.github.io/website/) |
 
 ## Chao Chen
 
