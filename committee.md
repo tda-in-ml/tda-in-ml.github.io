@@ -7,6 +7,8 @@ layout: default
 We are grateful for the support of these researchers who will serve as the
 linchpin in ensuring high-quality reviews of all scientific contributions:
 
+
+- [Erik Amézquita](https://www.egr.msu.edu/~amezqui3) (Michigan State University)
 - [Michaël Aupetit](https://www.hbku.edu.qa/en/staff/dr-micha%C3%ABl-aupetit) (Hamad Bin Khalifa University, [@MichaelAupetit](https://twitter.com/michaelaupetit))
 - [Rayna Andreeva](http://www.inf.ed.ac.uk/people/students/Rayna_Andreeva.html) (University of Edingburgh, [@randreeva1](https://twitter.com/randreeva1))
 - [Samuelson Tijesunimi Atiba](https://medium.com/@the_samuelson) (RiseVest, [@the_samuelson](https://twitter.com/the_samuelson))
@@ -33,6 +35,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Théo Lacombe](https://tlacombe.github.io) (DataShape, INRIA Saclay, [@Theo\_Lacombe\_](https://twitter.com/Theo_Lacombe_))
 - [Ismini Lourentzou](https://isminoula.github.io) (IBM Research, [@ismini\_l](https://twitter.com/ismini_l))
 - [Umberto Lupo](https://github.com/ulupo) (EPFL, [@umbislupo](https://twitter.com/umbislupo))
+- [David L. Millman](https://www.cs.montana.edu/dave/mySite/index.html) (Montana State University)
 - [Michael Moor](https://www.michaelmoor.ml/) (ETH Zurich, [@Michael_D_Moor](https://twitter.com/Michael_D_Moor))
 - [Leslie O'Bray](https://bsse.ethz.ch/mlcb/people/person-detail.MjMzMjk1.TGlzdC83NjcsLTEyNjQ4MzU1MTY=.html) (ETH Zurich)
 - [Eduardo Paluzo](https://personal.us.es/epaluzo/index.html) (University of Seville, [@epaluzohidalgo](https://twitter.com/epaluzohidalgo))
