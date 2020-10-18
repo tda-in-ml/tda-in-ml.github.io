@@ -105,6 +105,8 @@ is expanded on a rolling basis, stay tuned for more!):
 ## Robert Ghrist
 
 | <img src="/assets/images/speakers/rg.jpg" alt="Robert Ghrist" height="250px" /> |
+| **The Tarski Laplacian** |
+| This talk will introduce a new type of Laplacian that is built for lattice-valued data over networks. Like the graph Laplacian, it can be iterated to build consensus. Like the Hodge Laplacian on manifolds, it computes cohomology. This represents joint work with Hans Riess. |
 
 | **Affiliation** | [University of Pennsylvania](https://www.math.upenn.edu/~ghrist) | 
 | **Twitter** | [@robertghrist](https://twitter.com/robertghrist) |
