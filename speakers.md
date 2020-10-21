@@ -24,6 +24,7 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Liz Munch](#liz-munch)
 - [Vidit Nanda](#vidit-nanda)
 - [Jose Perea](#jose-perea)
+- [Laxmi Parida](#laxmi-parida)
 - [Raúl Rabadán](#raúl-rabadán)
 - [Katharine Turner](#katharine-turner)
 - [Bei Wang](#bei-wang)
@@ -177,6 +178,18 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [Michigan State University](https://www.joperea.com) |
 | **Biography** | I got my Ph.D. in Mathematics from [Stanford University](https://www.stanford.edu/) in 2011, and a B.Sc. in Mathematics from [Universidad del Valle](https://www.univalle.edu.co/) (Summa cum laude and Valedictorian) in 2006. I was a postdoc in the department of Mathematics at [Duke](https://duke.edu) from 2011 to 2015, and a member of the Institute for Mathematics and its Applications ([IMA](https://www.ima.umn.edu/2013-2014)) at the University of Minnesota during the Fall of 2014. In August of 2015 I joined [Michigan State University](https://msu.edu/) as an Assistant Professor with joint appointments in the department of Computational Mathematics, Science & Engineering ([CMSE](https://cmse.msu.edu)), and the department of [Mathematics](https://math.msu.edu). My work has been supported by grants from [DARPA](https://www.darpa.mil/), the [National Science Foundation](https://www.nsf.gov/), the [Center for Business and Social Analytics](http://cbsa.msu.edu/), and an [NSF CAREER award](https://www.nsf.gov/career). |
+
+## Laxmi Parida
+
+| <img src="/assets/images/speakers/lp.jpg" alt="Laxmi Parida" height="250px" /> |
+| **TDA on Covid 19 OMICS data** |
+| I will talk about the use of Topological Data Analysis (TDA) in the context of omics. I will also expand on a few different applications of TDA in a range of problems primarily arising in the Covid-19 pandemic. |
+| **Twitter** | [@LaxmiParida16](https://twitter.com/LaxmiParida16) | 
+| **Affiliation** | [IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=us-parida) |
+
+| **Biography** | Dr. Laxmi Parida is an IBM Fellow, Master Inventor and heads the Computational Genomics at the IBM Thomas J. Watson Research Center, USA. She is a visiting professor at the Courant Institute of Mathematical Sciences, New York. Over the last 10 years, she has led the IBM Science team in the Cacao Consortium (with MARS, USDA), the Genographic Project with National Geographic, the Bioinformatics team in the "Sequence the Food Supply Chain Consortium" across multiple global IBM labs, and the science team in the personalized cancer medicine system.
+Her research areas include population genomics, cancer genomics, metagenomics, algorithms (including AI) and topological data analysis. She has published over 200 peer-reviewed research papers; edited 10 volumes and authored a monograph on pattern discovery in bioinformatics. She holds over 40 US patents. She is on the advisory board of NYU Engineering School and editorial board of BMC Bioinformatics, Journal of Computational Biology and an Associate Editor, IEEE/ACM Transactions on Computational Biology and Bioinformatics and SIAM Journal of Discrete Mathematics. |
+
 
 ## Raúl Rabadán
 
