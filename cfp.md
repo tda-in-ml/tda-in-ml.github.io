@@ -28,9 +28,8 @@ We also permit papers that have been recently published or are under
 submission to another venue. Please mark such papers accordingly upon
 submission. The page limit for these submissions is 4 pages.
 
-Accepted papers and extended abstracts will be presented as brief talks
-of 5--7 minutes length. Authors will also have the option to present
-their work in a live session.
+Selected papers will be presented as brief 'spotlights' of 3 minutes length.
+All authors of accepted papers will have the option to present their work in a live session.
 
 This workshop is **non-archival**; even though all accepted papers will be
 available on OpenReview, there are *no* formally-published proceedings.
