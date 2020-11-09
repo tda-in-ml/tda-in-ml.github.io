@@ -74,8 +74,11 @@ is expanded on a rolling basis, stay tuned for more!):
 ## Mathieu Carrière
 
 | <img src="/assets/images/speakers/mc.jpg" alt="Mathieu Carrière" height="250px" /> |
+| **Probabilistic and Statistical Aspects of Reeb spaces and Mappers** |
+| Mappers and Reeb spaces are common data visualization tools of Topological Data Analysis. Despite their frequent use in many applications, not much is known about their statistical properties, such as their speed of convergence, or, more importantly, the confidence associated to its features. In this talk, I will present some recent results with a statistical flavor on these objects, as well as a few applications in machine learning and computational biology. | 
 
 | **Affiliation** | [Inria Sophia Antipolis](https://mathieucarriere.github.io/website/) |
+| **Biography** | Mathieu Carrière is a Research Scientist in the DataShape team at Inria Sophia Antipolis. He did his PhD at Inria Saclay in the DataShape team, under the supervision of Steve Oudot, and a postdoc of two years in the Rabadán Lab, at the Department of Systems Biology of Columbia University, under the supervision of Raúl Rabadán. His research focuses on topological data analysis (TDA) and statistical machine learning (ML), with an application to bioinformatics and genomics. He contributed to the analysis of topological descriptors and their use in ML methods such as kernel-SVM or deep learning. |
 
 ## Chao Chen
 
