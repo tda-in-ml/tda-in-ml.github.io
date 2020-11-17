@@ -7,7 +7,6 @@ layout: default
 We are grateful for the support of these researchers who will serve as the
 linchpin in ensuring high-quality reviews of all scientific contributions:
 
-
 - [Erik Amézquita](https://www.egr.msu.edu/~amezqui3) (Michigan State University)
 - [Michaël Aupetit](https://www.hbku.edu.qa/en/staff/dr-micha%C3%ABl-aupetit) (Hamad Bin Khalifa University, [@MichaelAupetit](https://twitter.com/michaelaupetit))
 - [Rayna Andreeva](http://www.inf.ed.ac.uk/people/students/Rayna_Andreeva.html) (University of Edingburgh, [@randreeva1](https://twitter.com/randreeva1))
@@ -17,6 +16,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Stella Rose Biderman](https://www.stellabiderman.com) (Booz Allen Hamilton, [@BlancheMinerva](https://twitter.com/BlancheMinerva))
 - [Nello Blaser](https://folk.uib.no/nbl003/index.html) (University of Bergen, Norway)
 - [Sven Cattell](https://twitter.com/comathematician) (Elastic, [@comathematician](https://twitter.com/comathematician))
+- [Louis Castricato](https://www.louiscastricato.com) (Georgia Tech, [@lcastricato](https://twitter.com/lcastricato))
 - [Christian Bock](https://christian.bock.ml) (ETH Zurich, [@chrs_bock](https://twitter.com/chrs_bock))
 - [Cristian Bodnar](https://crisbodnar.github.io) (Cambridge University, [@cristianbodnar](https://twitter.com/cristianbodnar))
 - [Mathieu Carrière](https://mathieucarriere.github.io/website) (Inria Sophia Antipolis)
