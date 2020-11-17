@@ -4,9 +4,8 @@ layout: default
 
 # Overview
 
-| **Date** |One-day workshop on Friday, 11 December 2020 |
-| **Time** | TBA |
-| **Location** | The workshop will be held *virtually*. Stay tuned for more information. |
+| **Date** | One-day workshop on Friday, 11 December 2020 |
+| **Location** | The workshop will be held *virtually*. |
 
 Join our Slack workspace [TDA in ML](https://tda-in-ml.slack.com/join/shared_invite/enQtOTIyMTIyNTYxMTM2LTA2YmQyZjVjNjgxZWYzMDUyODY5MjlhMGE3ZTI1MzE4NjI2OTY0MmUyMmQ3NGE0MTNmMzNiMTViMjM2MzE4OTc#/) for more information about the workshop.
 Use the channel `#neurips2020_workshop` to communicate with the
