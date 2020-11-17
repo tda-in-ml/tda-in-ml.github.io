@@ -19,6 +19,7 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Robert Ghrist](#robert-ghrist)
 - [Kathryn Hess](#kathryn-hess)
 - [Yasu Hiraoka](#yasu-hiraoka)
+- [Manohar Kaul](#manohar-kaul)
 - [Leland McInnes](#leland-mcinnes)
 - [Facundo Mémoli](#facundo-mémoli)
 - [Liz Munch](#liz-munch)
@@ -133,6 +134,16 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [Kyoto University](https://sites.google.com/site/yasuakihiraoka) |
 | **Biography** | Yasu Hiraoka is a professor of Kyoto University Institute for the Advanced Study (KUIAS) at Kyoto University. He studies mathematical theory and algorithm of TDA, and also works on applying them into scientific and engineering problems. His primary interest is to develop descriptors for characterizing shape of complex and big data. By combining various mathematical theories such as topology, representation theory, probability theory, he succeeded in making TDA powerful and general for practical problems. In applications, he has organized the materials TDA team, and his group achieved several pioneering results on structural analysis in materials science based on TDA. In particular, a series of methods developed by his group using persistent homology, machine learning, and inverse analysis are expected to be a key technology for materials informatics in future. In addition to materials science, he has recently launched TDA projects on other application areas such as life science and economics. |
+
+## Manohar Kaul
+
+| <img src="/assets/images/speakers/mk.jpg" alt="Manohar Kaul" height="250px" /> |
+| **Solving Partial Assignment Problems using Random Simplicial Complexes** |
+| This talk will introduce a partial quadratic assignment problem (QAP) posed as finding a bijective-mapping between random simplicial complexes.  This problem will be further motivated with examples from computer vision literature. We study the asymptotic behavior of the affinity matrix associated with the QAP in this random setting. Additionally, we show empirical results of our matching algorithm on real-world datasets, containing severe occlusions and distortions. |
+
+| **Affiliation** | [IIT Hyderabad](https://iith.ac.in/~mkaul) | 
+| **Twitter** | [@ManuKaul1](https://twitter.com/ManuKaul1) |
+| **Biography** | Manohar Kaul is an Assistant Professor in the Computer Science and Engineering Department at the Indian Institute of Technology (IIT) Hyderabad, India. He received his Ph.D. from Aarhus University, Denmark and his Masters from Uppsala University, Sweden. He also worked at DIMA, TU Berlin as a Postdoc. His key research interests span machine learning, graph theory, and applied algebraic topology. |
 
 ## Leland McInnes
 
