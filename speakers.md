@@ -36,7 +36,6 @@ is expanded on a rolling basis, stay tuned for more!):
 
 - [Gunnar Carlsson](#gunnar-carlsson)
 - [Kathryn Hess](#kathryn-hess)
-- [Raúl Rabadán](#raúl-rabadán)
 
 ## Serguei Barannikov
 
@@ -202,13 +201,6 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Twitter** | [@LaxmiParida16](https://twitter.com/LaxmiParida16) | 
 | **Affiliation** | [IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=us-parida) |
 | **Biography** | Dr. Laxmi Parida is an IBM Fellow, Master Inventor and heads the Computational Genomics at the IBM Thomas J. Watson Research Center, USA. She is a visiting professor at the Courant Institute of Mathematical Sciences, New York. Over the last 10 years, she has led the IBM Science team in the Cacao Consortium (with MARS, USDA), the Genographic Project with National Geographic, the Bioinformatics team in the "Sequence the Food Supply Chain Consortium" across multiple global IBM labs, and the science team in the personalized cancer medicine system. Her research areas include population genomics, cancer genomics, metagenomics, algorithms (including AI) and topological data analysis. She has published over 200 peer-reviewed research papers; edited 10 volumes and authored a monograph on pattern discovery in bioinformatics. She holds over 40 US patents. She is on the advisory board of NYU Engineering School and editorial board of BMC Bioinformatics, Journal of Computational Biology and an Associate Editor, IEEE/ACM Transactions on Computational Biology and Bioinformatics and SIAM Journal of Discrete Mathematics. |
-
-## Raúl Rabadán
-
-| <img src="/assets/images/speakers/rr.jpg" alt="Raúl Rabadán" height="250px" /> |
-
-| **Affiliation** | [Columbia University](https://rabadan.c2b2.columbia.edu) |
-| **Biography** | Raul Rabadan is the Gerald and Janet Carrus Professor in the [Departments of Systems Biology](http://systemsbiology.columbia.edu/), [Biomedical Informatics](https://www.dbmi.columbia.edu/) and Surgery at [Columbia University](http://www.columbia.edu/). He is the director of the [Program for Mathematical Genomics](https://systemsbiology.columbia.edu/the-program-for-mathematical-genomics) at Columbia University and the NCI [Center for Topology of Cancer Evolution and Heterogeneity](https://psoc.c2b2.columbia.edu/). From 2001 to 2003, Dr. Rabadan was a fellow at the [Theoretical Physics Division](http://ph-dep-th.web.cern.ch/ph-dep-th/) at [CERN](http://public.web.cern.ch/public/), the European Organization for Nuclear Research, in Geneva, Switzerland. In 2003 he joined the Physics Group of the [School of Natural Sciences](http://www.sns.ias.edu/) at the [Institute for Advanced Study](http://www.ias.edu/). Previously, Dr. Rabadan was the Martin A. and Helen Chooljian Member at [The Simons Center for Systems Biology](http://www.sns.ias.edu/csb) at the [Institute for Advanced Study](http://www.ias.edu/) in Princeton, New Jersey. He has been named one of Popular Science's [Brilliant 10](http://www.popsci.com/science/article/2010-10/brilliant-10-raul-rabadan-outbreak-sleuth) (2010), a Stewart Trust Fellow (2013), and he received the Harold and Golden Lamport Award at Columbia University (2014) and the Diz Pintado award (2018). Dr. Rabadan’s current interest focuses on uncovering patterns of evolution in biological systems through the lens of genomics. His recent interests include the development of mathematical approaches to uncover the evolution of cancer and infectious diseases, including topological data analysis and Random Matrix Theory, among others. |
 
 ## Katharine Turner
 
