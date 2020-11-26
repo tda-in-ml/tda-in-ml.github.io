@@ -19,6 +19,7 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Robert Ghrist](#robert-ghrist)
 - [Kathryn Hess](#kathryn-hess)
 - [Yasu Hiraoka](#yasu-hiraoka)
+- [Lida Kanari](#lida-kanari)
 - [Manohar Kaul](#manohar-kaul)
 - [Leland McInnes](#leland-mcinnes)
 - [Facundo Mémoli](#facundo-mémoli)
@@ -133,6 +134,14 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [Kyoto University](https://sites.google.com/site/yasuakihiraoka) |
 | **Biography** | Yasu Hiraoka is a professor of Kyoto University Institute for the Advanced Study (KUIAS) at Kyoto University. He studies mathematical theory and algorithm of TDA, and also works on applying them into scientific and engineering problems. His primary interest is to develop descriptors for characterizing shape of complex and big data. By combining various mathematical theories such as topology, representation theory, probability theory, he succeeded in making TDA powerful and general for practical problems. In applications, he has organized the materials TDA team, and his group achieved several pioneering results on structural analysis in materials science based on TDA. In particular, a series of methods developed by his group using persistent homology, machine learning, and inverse analysis are expected to be a key technology for materials informatics in future. In addition to materials science, he has recently launched TDA projects on other application areas such as life science and economics. |
+
+## Lida Kanari
+
+| **A topological insight on neuronal morphologies** |
+| The morphological diversity of neurons supports the complex information-processing capabilities of biological  neuronal  networks.  A  major  challenge  in  neuroscience  has  been  to  reliably  describe neuronal shapes with universal morphometrics that generalize across cell types and species. Inspired by algebraic topology, we have developed a topological descriptor of trees that couples the topology of  their complex  arborization  with  their  geometric  structure,  retaining more  information  than traditional morphometrics. The topological morphology descriptor (TMD) has proved to be very powerful in separating neurons into well-defined groups on morphological grounds. The TMD algorithm led to the discovery of two distinct  morphological  classes of  pyramidal  cells  in  the  human  cortex  that  also  have  distinct functional roles, suggesting the existence of a direct link between the anatomy and the function of neurons. The TMD-based classification also led to the objective and robust morphological clustering of rodent cortical neurons. Recently we proved that the  TMD  of  neuronal morphologies  is  also  essential  for  the  computational  generation (i.e., synthesis)  of  dendritic  morphologies.  Our  results demonstrate  that  a  topology-based  synthesis algorithm  can reproduce  both  morphological  and  electrical  properties  of reconstructed  biological rodent  cortical  dendrites and generalizes well to  a  wide  variety  of different  dendritic  shapes. Therefore it is  suitable  for  the  generation  of  unique  neuronal  morphologies to populate the digital reconstruction of large-scale, physiologically realistic networks. |
+
+| **Affiliation** | [École polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/research/domains/bluebrain/blue-brain/people/group-leaders/lida-kanari/) |
+| **Biography** | Lida Kanari is a Postdoctoral fellow and Neuromathematics Junior Group Leader in the Simulation Neuroscience Division.  The shape of neuronal morphologies constrains among others the connectivity and the functionality of a neuronal network. Lida’s work during her PhD (2018, EPFL) focused on the mathematical description of neuronal shapes as she has been investigating what are the fundamental differences between morphologically distinct cell-types and how different neuronal shapes are generated. She has been developing algorithms based on mathematical principles, including topology, Markov models and stochastic processes, to model and reproduce neuronal shapes. Lida has a MSc in Applied Mathematics and Physics and a MSc Computational Fluid Mechanics from the National Technical University of Athens, Greece. She was awarded her PhD from EPFL in Computational Neuroscience. |
 
 ## Manohar Kaul
 
