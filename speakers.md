@@ -27,7 +27,7 @@ is expanded on a rolling basis, stay tuned for more!):
 - [Vidit Nanda](#vidit-nanda)
 - [Jose Perea](#jose-perea)
 - [Laxmi Parida](#laxmi-parida)
-- [Raúl Rabadán](#raúl-rabadán)
+- [Don Sheehy](#don-sheehy)
 - [Katharine Turner](#katharine-turner)
 - [Bei Wang](#bei-wang)
 - [Yusu Wang](#yusu-wang)
@@ -212,6 +212,15 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Twitter** | [@LaxmiParida16](https://twitter.com/LaxmiParida16) | 
 | **Affiliation** | [IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=us-parida) |
 | **Biography** | Dr. Laxmi Parida is an IBM Fellow, Master Inventor and heads the Computational Genomics at the IBM Thomas J. Watson Research Center, USA. She is a visiting professor at the Courant Institute of Mathematical Sciences, New York. Over the last 10 years, she has led the IBM Science team in the Cacao Consortium (with MARS, USDA), the Genographic Project with National Geographic, the Bioinformatics team in the "Sequence the Food Supply Chain Consortium" across multiple global IBM labs, and the science team in the personalized cancer medicine system. Her research areas include population genomics, cancer genomics, metagenomics, algorithms (including AI) and topological data analysis. She has published over 200 peer-reviewed research papers; edited 10 volumes and authored a monograph on pattern discovery in bioinformatics. She holds over 40 US patents. She is on the advisory board of NYU Engineering School and editorial board of BMC Bioinformatics, Journal of Computational Biology and an Associate Editor, IEEE/ACM Transactions on Computational Biology and Bioinformatics and SIAM Journal of Discrete Mathematics. |
+
+## Don Sheehy
+
+| <img src="/assets/images/speakers/ds.jpg" alt="Don Sheehy" height="250px" /> |
+| **Affiliation** | [North Carolina State University](http://donsheehy.net) |
+| **Biography** | Don Sheehy is an Associate Professor of Computer Science at North Carolina State University.  He completed his undergraduate studies at Princeton University and received a PhD in Computer Science from Carnegie Mellon University.  His research focuses on the interplay of geometry, topology, and algorithms. |
+
+| **A Sparse Delaunay Filtration** |
+| In this talk, I will discuss how a filtration of Delaunay complexes can be used to approximate the persistence diagram of the distance to a point set in $\R^d$.  Whereas the full Delaunay complex can be used to compute this persistence diagram exactly, it may have size $O(n^{\lceil d/2 \rceil})$. In contrast, our construction uses only $O(n)$ simplices.  The central idea is to connect Delaunay complexes on progressively denser subsamples by considering the flips in an incremental construction as simplices in $d+1$ dimensions.  This approach leads to a very simple and straightforward proof of correctness in geometric terms, because the final filtration is dual to a $(d+1)$-dimensional Voronoi construction similar to the standard Delaunay complex. |
 
 ## Katharine Turner
 
