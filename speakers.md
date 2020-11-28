@@ -216,11 +216,11 @@ is expanded on a rolling basis, stay tuned for more!):
 ## Don Sheehy
 
 | <img src="/assets/images/speakers/ds.png" alt="Don Sheehy" height="250px" /> |
-| **Affiliation** | [North Carolina State University](http://donsheehy.net) |
-| **Biography** | Don Sheehy is an Associate Professor of Computer Science at North Carolina State University.  He completed his undergraduate studies at Princeton University and received a PhD in Computer Science from Carnegie Mellon University.  His research focuses on the interplay of geometry, topology, and algorithms. |
-
 | **A Sparse Delaunay Filtration** |
 | In this talk, I will discuss how a filtration of Delaunay complexes can be used to approximate the persistence diagram of the distance to a point set in $\R^d$.  Whereas the full Delaunay complex can be used to compute this persistence diagram exactly, it may have size $O(n^{\lceil d/2 \rceil})$. In contrast, our construction uses only $O(n)$ simplices.  The central idea is to connect Delaunay complexes on progressively denser subsamples by considering the flips in an incremental construction as simplices in $d+1$ dimensions.  This approach leads to a very simple and straightforward proof of correctness in geometric terms, because the final filtration is dual to a $(d+1)$-dimensional Voronoi construction similar to the standard Delaunay complex. |
+
+| **Affiliation** | [North Carolina State University](http://donsheehy.net) |
+| **Biography** | Don Sheehy is an Associate Professor of Computer Science at North Carolina State University.  He completed his undergraduate studies at Princeton University and received a PhD in Computer Science from Carnegie Mellon University.  His research focuses on the interplay of geometry, topology, and algorithms. |
 
 ## Katharine Turner
 
