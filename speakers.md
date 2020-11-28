@@ -215,7 +215,7 @@ is expanded on a rolling basis, stay tuned for more!):
 
 ## Don Sheehy
 
-| <img src="/assets/images/speakers/ds.jpg" alt="Don Sheehy" height="250px" /> |
+| <img src="/assets/images/speakers/ds.png" alt="Don Sheehy" height="250px" /> |
 | **Affiliation** | [North Carolina State University](http://donsheehy.net) |
 | **Biography** | Don Sheehy is an Associate Professor of Computer Science at North Carolina State University.  He completed his undergraduate studies at Princeton University and received a PhD in Computer Science from Carnegie Mellon University.  His research focuses on the interplay of geometry, topology, and algorithms. |
 
