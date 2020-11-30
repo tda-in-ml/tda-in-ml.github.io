@@ -65,8 +65,11 @@ is expanded on a rolling basis, stay tuned for more!):
 ## Peter Bubenik
 
 | <img src="/assets/images/speakers/pb.jpg" alt="Peter Bubenik" height="250px" /> |
+| **Topological Data Analysis for Cell Biology Images** |
+| In this talk I introduce topological data analysis and show how it may be combined with machine learning to analyze certain biological images.  The protein actin is an important component of the cell that is involved in movement, organ development, and wound healing. Using a small collection of high-resolution images of a cell's actin cytoskeleton, we are able to train a classifier to distinguish between treated and untreated cells. Furthermore, we are able to visualize the parts of the cell that the computer uses for its classification. Our analysis subsamples patches and uses homology relative to a boundary and persistence landscapes. |
 
 | **Affiliation** | [University of Florida](https://people.clas.ufl.edu/peterbubenik) |
+| **Biography** | Peter Bubenik's research is on applied topology and more specifically, topological data analysis, which studies the shape of data. More precisely, it consists of combining ideas from topology, statistics and machine learning to develop new tools for summarizing and visualizing large, complex, high-dimensional data; developing a general framework which quantifies topological and geometric changes using ideas from topology, algebra, analysis, and category theory; and working with collaborators to use these ideas to analyze data. Peter obtained his Ph.D. at the University of Toronto in 2003 and was a postdoc at the Ecole Polytechnique Federale de Lausanne (EPFL) in Switzerland from 2003 to 2005. From 2005 to 2015 he was at Cleveland State University, and since 2015, he is at the University of Florida. |
 
 ## Gunnar Carlsson
 
