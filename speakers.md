@@ -41,7 +41,7 @@ is expanded on a rolling basis, stay tuned for more!):
 ## Serguei Barannikov
 
 | <img src="/assets/images/speakers/sb.jpg" alt="Serguei Barannikov" height="250px" /> |
-| **Topological obstructions to neural networks' learning** |
+| **Topological obstructions in neural networks' learning** |
 | We apply topological data analysis tools to studying loss surfaces of neural networks. This is a joint work with G. Sotnikov, A. Korotin, D. Oganesyan, D. Emtsev, E. Burnaev. | 
 
 | **Affiliation** | [Skoltech & Paris Diderot University](https://webusers.imj-prg.fr/serguei.barannikov) |
