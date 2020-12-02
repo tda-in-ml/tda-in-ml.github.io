@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Accepted Papers
 ---
 
 This is the list of all accepted papers. You can find more information
@@ -15,7 +16,7 @@ of the organisation committee independently.
 
 Congratulations to all authors!
 
-# Accepted submissions
+# Accepted Papers
 
 **$k$-simplex2vec: a simplicial extension of node2vec** (Spotlight presentation)<br />
 Celia Hacker<br />
