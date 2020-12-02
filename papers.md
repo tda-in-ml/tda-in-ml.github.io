@@ -2,6 +2,21 @@
 layout: default
 ---
 
+This is the list of all accepted papers. You can find more information
+about each submission by following either the *Forum* link or by
+visiting the [OpenReview Workshop Website](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/TDA_and_Beyond).
+
+# Statistics
+
+We received 53 submissions in total, of which we accepted 10 spotlights
+and 29 poster presentations. All submissions received at least two
+reviews, which were afterwards weighted, read, and considered by members
+of the organisation committee independently.
+
+Congratulations to all authors!
+
+# Accepted submissions
+
 **$k$-simplex2vec: a simplicial extension of node2vec** (Spotlight presentation)<br />
 Celia Hacker<br />
 <abstract>We present a novel method of associating Euclidean features to simplicial complexes, providing a way to use them as input to statistical and machine learning tools. This method extends the node2vec algorithm to simplices of higher dimensions, providing insight into the structure of a simplicial complex, or into the higher-order interactions in a graph. </abstract>
