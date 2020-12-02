@@ -88,9 +88,12 @@ is expanded on a rolling basis, stay tuned for more!):
 
 ## Chao Chen
 
-| <img src="/assets/images/speakers/cc.jpg" alt="Chao Chen" height="250px" /> |
+| <img src="/assets/images/speakers/cc.png" alt="Chao Chen" height="250px" /> |
+| **Learning with Topological Information - Image Analysis and Label Noise** |
+| Modern machine learning faces new challenges. We are analyzing highly complex data with unknown noise. Topology provides novel structural information to model such data and noise. In this talk, we discuss two directions in which we are using topological information in the learning context. In image analysis, we proposed a topological loss to segment and generate images with not only per-pixel accuracy, but also topological accuracy. This is necessary in analysis of images of fine-scale biomedical structures such as neurons, vessels, etc. Extracting these structures with correct topology is essential for the success of downstream analysis. Meanwhile, we will briefly discuss how to use topological information to train classifiers robust to label noise. These results have been published in NeurIPS’19, ECCV’20, ICML’20 and NeurIPS’20. |
 
 | **Affiliation** | [Stony Brook University](https://bmi.stonybrookmedicine.edu/people/chao_chen) |
+| **Biography** | Chao Chen is an assistant professor at Stony Brook University. His research interest spans topological data analysis, machine learning and biomedical image analysis. He works on applying topological data analysis tools, such as persistent homology and discrete Morse theory, to biomedical image analysis and to generic machine learning problems. |
 
 ## Lorin Crawford
 
