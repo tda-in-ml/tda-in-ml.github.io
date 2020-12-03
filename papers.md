@@ -96,6 +96,7 @@ Michael Moor &bull; Max Horn &bull; Karsten Borgwardt &bull; Bastian Rieck<br />
 <abstract> Topological autoencoders (TopoAE) have demonstrated their capabilities for performing dimensionality reduction while at the same time preserving topological information of the input space. In its original formulation, this method relies on a Vietoris--Rips filtration of the data space, using the Euclidean metric as the base distance. It is commonly assumed that this distance is not sufficiently powerful to capture salient features of image data sets. We therefore investigate alternative choices of distances in the data space, which are generally considered to be more faithful for image data in comparison to the pixel distance. In our experiments on real-world image datasets, we find that the Euclidean formulation of TopoAE is surprisingly competitive with more elaborate, perceptually-inspired image distances.</abstract>
 
 [PDF](https://openreview.net/pdf?id=P3dZuOUnyEY) &bull;
+[Poster](https://openreview.net/attachment?id=P3dZuOUnyEY&name=Poster) &bull;
 [Forum](https://openreview.net/forum?id=P3dZuOUnyEY)
 
 <div style="text-align:center">
