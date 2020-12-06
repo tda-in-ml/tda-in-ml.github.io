@@ -48,26 +48,8 @@ a detailed breakdown of poster sessions.
 | <span style="font-family: monospace;">18:15--18:30</span> |  <span style="font-family: monospace;">12:15--12:30</span> | Leland McInnes              |
 | <span style="font-family: monospace;">18:30--18:45</span> |  <span style="font-family: monospace;">12:30--12:45</span> | Facundo Mémoli              |
 | <span style="font-family: monospace;">18:45--19:30</span> |  <span style="font-family: monospace;">12:45--13:30</span> | [Poster Session III](#poster-session-iii) |
-| <span style="font-family: monospace;">19:30--20:15</span> |  <span style="font-family: monospace;">13:30--14:15</span> | Discussion III              |
+| <span style="font-family: monospace;">19:30--20:15</span> |  <span style="font-family: monospace;">13:30--14:15</span> | [Discussion III](#discussion-iii)              |
 | <span style="font-family: monospace;">20:15--20:30</span> |  <span style="font-family: monospace;">14:15--14:30</span> | Wrap-up                     |
-
-# Discussion I
-
-This session will be *live*! Please use the Rocket.Chat on the [NeurIPS
-workshop website](https://neurips.cc/virtual/2020/protected/workshop_16159.html)
-or the Slack channel to ask your questions. 
-
-## Participants in this panel
-
-- [Serguei Barannikov](/speakers/#serguei-barannikov)
-- [Ulrich Bauer](/speakers/#ulrich-bauer)
-- [Mathieu Carrière](/speakers/#mathieu-carrière)
-- [Robert Ghrist](/speakers/#robert-ghrist)
-- [Yasu Hiraoka](/speakers/#yasu-hiraoka)
-- [Manohar Kaul](/speakers/#manohar-kaul)
-- [Vidit Nanda](/speakers/#vidit-nanda)
-- [Katharine Turner](/speakers/#katharine-turner)
-- [Yuzuru Yamakage](/speakers/#yuzuru-yamakage)
 
 # Poster Session I
 
@@ -90,23 +72,23 @@ or the Slack channel to ask your questions.
 - Teaspoon: A comprehensive python package for topological signal processing
 - Topological Echoes of Primordial Physics in the Universe at Large Scales
 
-# Discussion II
+# Discussion I
 
 This session will be *live*! Please use the Rocket.Chat on the [NeurIPS
 workshop website](https://neurips.cc/virtual/2020/protected/workshop_16159.html)
 or the Slack channel to ask your questions. 
 
+## Participants in this panel
+
 - [Serguei Barannikov](/speakers/#serguei-barannikov)
 - [Ulrich Bauer](/speakers/#ulrich-bauer)
-- [Andrew J. Blumberg](/speakers/#andrew-j-blumberg)
-- [Gunnar Carlsson](/speakers/#gunnar-carlsson)
 - [Mathieu Carrière](/speakers/#mathieu-carrière)
-- [Chao Chen](/speakers/#chao-chen)
-- [Brittany Terese Fasy](/speakers/#brittany-terese-fasy)
-- [Kathryn Hess](/speakers/#kathryn-hess)
-- [Laxmi Parida](/speakers/#laxmi-parida)
-- [Don Sheehy](/speakers/#don-sheehy)
-- [Bei Wang](/speakers/#bei-wang)
+- [Robert Ghrist](/speakers/#robert-ghrist)
+- [Yasu Hiraoka](/speakers/#yasu-hiraoka)
+- [Manohar Kaul](/speakers/#manohar-kaul)
+- [Vidit Nanda](/speakers/#vidit-nanda)
+- [Katharine Turner](/speakers/#katharine-turner)
+- [Yuzuru Yamakage](/speakers/#yuzuru-yamakage)
 
 # Poster Session II
 
@@ -134,6 +116,26 @@ or the Slack channel to ask your questions.
 - Topological Convolutional Neural Networks
 - Using topological autoencoders as a filtering function for global and local topology
 
+# Discussion II
+
+This session will be *live*! Please use the Rocket.Chat on the [NeurIPS
+workshop website](https://neurips.cc/virtual/2020/protected/workshop_16159.html)
+or the Slack channel to ask your questions. 
+
+## Participants in this panel
+
+- [Serguei Barannikov](/speakers/#serguei-barannikov)
+- [Ulrich Bauer](/speakers/#ulrich-bauer)
+- [Andrew J. Blumberg](/speakers/#andrew-j-blumberg)
+- [Gunnar Carlsson](/speakers/#gunnar-carlsson)
+- [Mathieu Carrière](/speakers/#mathieu-carrière)
+- [Chao Chen](/speakers/#chao-chen)
+- [Brittany Terese Fasy](/speakers/#brittany-terese-fasy)
+- [Kathryn Hess](/speakers/#kathryn-hess)
+- [Laxmi Parida](/speakers/#laxmi-parida)
+- [Don Sheehy](/speakers/#don-sheehy)
+- [Bei Wang](/speakers/#bei-wang)
+
 # Poster Session III
 
 - Bifurcation Analysis using Zigzag Persistence
@@ -156,3 +158,21 @@ or the Slack channel to ask your questions.
 - Using topological autoencoders as a filtering function for global and local topology
 - Weighting vectors for machine learning: numerical harmonic analysis applied to boundary detection
 - Witness Autoencoder: Shaping the Latent Space with Witness Complexes
+
+# Discussion III
+
+This session will be *live*! Please use the Rocket.Chat on the [NeurIPS
+workshop website](https://neurips.cc/virtual/2020/protected/workshop_16159.html)
+or the Slack channel to ask your questions. 
+
+## Participants in this panel
+
+- [Andrew J. Blumberg](#andrew-j-blumberg)
+- [Peter Bubenik](#peter-bubenik)
+- [Chao Chen](#chao-chen)
+- [Lorin Crawford](#lorin-crawford)
+- [Leland McInnes](#leland-mcinnes)
+- [Liz Munch](#liz-munch)
+- [Don Sheehy](#don-sheehy)
+- [Katharine Turner](#katharine-turner)
+- [Yusu Wang](#yusu-wang)
