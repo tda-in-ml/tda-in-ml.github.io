@@ -39,7 +39,7 @@ a detailed breakdown of poster sessions.
 | <span style="font-family: monospace;">15:00--15:15</span> |  <span style="font-family: monospace;">09:00--09:15</span> | Brittany Terese Fasy        |
 | <span style="font-family: monospace;">15:15--15:30</span> |  <span style="font-family: monospace;">09:15--09:30</span> | Don Sheehy                  |
 | <span style="font-family: monospace;">15:30--16:15</span> |  <span style="font-family: monospace;">09:30--10:15</span> | [Poster Session II](#poster-session-ii)   |
-| <span style="font-family: monospace;">16:15--17:00</span> |  <span style="font-family: monospace;">10:15--11:00</span> | Discussion II               |
+| <span style="font-family: monospace;">16:15--17:00</span> |  <span style="font-family: monospace;">10:15--11:00</span> | [Discussion II](#discussion-ii)               |
 | <span style="font-family: monospace;">17:00--17:15</span> |  <span style="font-family: monospace;">11:00--11:15</span> | Laxmi Parida                |
 | <span style="font-family: monospace;">17:15--17:30</span> |  <span style="font-family: monospace;">11:15--11:30</span> | Jose Perea                  |
 | <span style="font-family: monospace;">17:30--17:45</span> |  <span style="font-family: monospace;">11:30--11:45</span> | Yusu Wang                   |
@@ -59,15 +59,15 @@ or the Slack channel to ask your questions.
 
 ## Participants in this panel
 
-- [Serguei Barannikov](#serguei-barannikov)
-- [Ulrich Bauer](#ulrich-bauer)
-- [Mathieu Carrière](#mathieu-carrière)
-- [Robert Ghrist](#robert-ghrist)
-- [Yasu Hiraoka](#yasu-hiraoka)
-- [Manohar Kaul](#manohar-kaul)
-- [Vidit Nanda](#vidit-nanda)
-- [Katharine Turner](#katharine-turner)
-- [Yuzuru Yamakage](#yuzuru-yamakage)
+- [Serguei Barannikov](/speakers/#serguei-barannikov)
+- [Ulrich Bauer](/speakers/#ulrich-bauer)
+- [Mathieu Carrière](/speakers/#mathieu-carrière)
+- [Robert Ghrist](/speakers/#robert-ghrist)
+- [Yasu Hiraoka](/speakers/#yasu-hiraoka)
+- [Manohar Kaul](/speakers/#manohar-kaul)
+- [Vidit Nanda](/speakers/#vidit-nanda)
+- [Katharine Turner](/speakers/#katharine-turner)
+- [Yuzuru Yamakage](/speakers/#yuzuru-yamakage)
 
 # Poster Session I
 
