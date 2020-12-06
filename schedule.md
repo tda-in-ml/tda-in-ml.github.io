@@ -90,6 +90,24 @@ or the Slack channel to ask your questions.
 - Teaspoon: A comprehensive python package for topological signal processing
 - Topological Echoes of Primordial Physics in the Universe at Large Scales
 
+# Discussion II
+
+This session will be *live*! Please use the Rocket.Chat on the [NeurIPS
+workshop website](https://neurips.cc/virtual/2020/protected/workshop_16159.html)
+or the Slack channel to ask your questions. 
+
+- [Serguei Barannikov](/speakers/#serguei-barannikov)
+- [Ulrich Bauer](/speakers/#ulrich-bauer)
+- [Andrew J. Blumberg](/speakers/#andrew-j-blumberg)
+- [Gunnar Carlsson](/speakers/#gunnar-carlsson)
+- [Mathieu Carrière](/speakers/#mathieu-carrière)
+- [Chao Chen](/speakers/#chao-chen)
+- [Brittany Terese Fasy](/speakers/#brittany-terese-fasy)
+- [Kathryn Hess](/speakers/#kathryn-hess)
+- [Laxmi Parida](/speakers/#laxmi-parida)
+- [Don Sheehy](/speakers/#don-sheehy)
+- [Bei Wang](/speakers/#bei-wang)
+
 # Poster Session II
 
 - $k$-simplex2vec: a simplicial extension of node2vec
