@@ -26,7 +26,7 @@ a detailed breakdown of poster sessions.
 | <span style="font-family: monospace;">10:00--10:15</span> |  <span style="font-family: monospace;">04:00--04:15</span> | Serguei Barannikov          |
 | <span style="font-family: monospace;">10:15--10:30</span> |  <span style="font-family: monospace;">04:15--04:30</span> | Ulrich Bauer                |
 | <span style="font-family: monospace;">10:30--11:15</span> |  <span style="font-family: monospace;">04:30--05:15</span> | [Poster Session I](#poster-session-i)     |
-| <span style="font-family: monospace;">11:15--12:00</span> |  <span style="font-family: monospace;">05:15--06:00</span> | Discussion I                |
+| <span style="font-family: monospace;">11:15--12:00</span> |  <span style="font-family: monospace;">05:15--06:00</span> | [Discussion I](#discussion-i)                |
 | <span style="font-family: monospace;">12:00--12:30</span> |  <span style="font-family: monospace;">06:00--06:30</span> | Keynote II: Gunnar Carlsson |
 | <span style="font-family: monospace;">12:30--13:00</span> |  <span style="font-family: monospace;">06:30--07:00</span> | Break                       |
 | <span style="font-family: monospace;">13:30--13:30</span> |  <span style="font-family: monospace;">07:00--07:30</span> | Lida Kanari (**live**)      |
@@ -51,7 +51,25 @@ a detailed breakdown of poster sessions.
 | <span style="font-family: monospace;">19:30--20:15</span> |  <span style="font-family: monospace;">13:30--14:15</span> | Discussion III              |
 | <span style="font-family: monospace;">20:15--20:30</span> |  <span style="font-family: monospace;">14:15--14:30</span> | Wrap-up                     |
 
-# Poster Session 1
+# Discussion I
+
+This session will be *live*! Please use the Rocket.Chat on the [NeurIPS
+workshop website](https://neurips.cc/virtual/2020/protected/workshop_16159.html)
+or the Slack channel to ask your questions. 
+
+## Participants in this panel
+
+- [Serguei Barannikov](#serguei-barannikov)
+- [Ulrich Bauer](#ulrich-bauer)
+- [Mathieu Carrière](#mathieu-carrière)
+- [Robert Ghrist](#robert-ghrist)
+- [Yasu Hiraoka](#yasu-hiraoka)
+- [Manohar Kaul](#manohar-kaul)
+- [Vidit Nanda](#vidit-nanda)
+- [Katharine Turner](#katharine-turner)
+- [Yuzuru Yamakage](#yuzuru-yamakage)
+
+# Poster Session I
 
 - $k$-simplex2vec: a simplicial extension of node2vec
 - 0-dimensional Homology Preserving Dimensionality Reduction with TopoMap
@@ -72,7 +90,7 @@ a detailed breakdown of poster sessions.
 - Teaspoon: A comprehensive python package for topological signal processing
 - Topological Echoes of Primordial Physics in the Universe at Large Scales
 
-# Poster Session 2
+# Poster Session II
 
 - $k$-simplex2vec: a simplicial extension of node2vec
 - Bifurcation Analysis using Zigzag Persistence
@@ -98,7 +116,7 @@ a detailed breakdown of poster sessions.
 - Topological Convolutional Neural Networks
 - Using topological autoencoders as a filtering function for global and local topology
 
-# Poster Session 3
+# Poster Session III
 
 - Bifurcation Analysis using Zigzag Persistence
 - Can neural networks learn persistent homology features?
