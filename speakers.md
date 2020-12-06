@@ -47,6 +47,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Affiliation** | [Skoltech & Paris Diderot University](https://webusers.imj-prg.fr/serguei.barannikov) |
 | **Biography** | Serguei Barannikov received his PhD in Mathematics from the University of California, Berkeley (1999). He is a leading research scientist at Skolkovo Institute of Science and Technology. He also holds a position as a CNRS researcher at Paris Diderot University.  He worked as a researcher in mathematics at Institut des Hautes Etudes Scientifiques and at Ecole Normale Supérieure in Paris.  At the age of 20, Barannikov wrote a paper on algebraic topology, in which he introduced "canonical form" invariants of filtered complexes, together with an efficient algorithm for their calculation. Ten years later, these invariants became widely used in topological data analysis under the name of "persistence barcodes" and "persistence diagrams". Dr. Barannikov's recent interests focus on applying  topological data analysis methods to reveal patterns in learning of neural networks. | 
 
+<div id="presentation-embed-38938283"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938283', {
+        presentationId: '38938283',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 ## Ulrich Bauer
 
 | <img src="/assets/images/speakers/ub.jpg" alt="Ulrich Bauer" height="250px" /> |
@@ -55,6 +65,16 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [Technical University of Munich](https://ulrich-bauer.org) |
 | **Biography** | Ulrich Bauer is an assistant professor in the department of mathematics at the Technical University of Munich (TUM), leading the Applied & Computation Topology group. His research revolves around application-motivated concepts and computational methods in topology and geometry, popularized by application areas such as topological data analysis. Some of his key research areas are persistent homology, discrete Morse theory, and geometric complexes. Ulrich is the author of [Ripser](https://github.com/Ripser/ripser), a leading software for the computation of Vietoris–Rips persistence barcodes. He is also an editor of the Journal of Applied and Computational Topology. | 
+
+<div id="presentation-embed-38942831"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38942831', {
+        presentationId: '38942831',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
 
 ## Andrew J. Blumberg
 
@@ -71,11 +91,31 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Affiliation** | [University of Florida](https://people.clas.ufl.edu/peterbubenik) |
 | **Biography** | Peter Bubenik's research is on applied topology and more specifically, topological data analysis, which studies the shape of data. More precisely, it consists of combining ideas from topology, statistics and machine learning to develop new tools for summarizing and visualizing large, complex, high-dimensional data; developing a general framework which quantifies topological and geometric changes using ideas from topology, algebra, analysis, and category theory; and working with collaborators to use these ideas to analyze data. Peter obtained his Ph.D. at the University of Toronto in 2003 and was a postdoc at the Ecole Polytechnique Federale de Lausanne (EPFL) in Switzerland from 2003 to 2005. From 2005 to 2015 he was at Cleveland State University, and since 2015, he is at the University of Florida. |
 
+<div id="presentation-embed-38938286"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938286', {
+        presentationId: '38938286',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 ## Gunnar Carlsson
 
 | <img src="/assets/images/speakers/gc.jpg" alt="Gunnar Carlsson" height="250px" /> |
 
 | **Affiliation** | [Stanford University](http://math.stanford.edu/~gunnar) |
+
+<div id="presentation-embed-38938285"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938285', {
+        presentationId: '38938285',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
 
 ## Mathieu Carrière
 
@@ -86,6 +126,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Affiliation** | [Inria Sophia Antipolis](https://mathieucarriere.github.io/website/) |
 | **Biography** | Mathieu Carrière is a Research Scientist in the DataShape team at Inria Sophia Antipolis. He did his PhD at Inria Saclay in the DataShape team, under the supervision of Steve Oudot, and a postdoc of two years in the Rabadán Lab, at the Department of Systems Biology of Columbia University, under the supervision of Raúl Rabadán. His research focuses on topological data analysis (TDA) and statistical machine learning (ML), with an application to bioinformatics and genomics. He contributed to the analysis of topological descriptors and their use in ML methods such as kernel-SVM or deep learning. |
 
+<div id="presentation-embed-38938291"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938291', {
+        presentationId: '38938291',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 ## Chao Chen
 
 | <img src="/assets/images/speakers/cc.png" alt="Chao Chen" height="250px" /> |
@@ -94,6 +144,16 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [Stony Brook University](https://bmi.stonybrookmedicine.edu/people/chao_chen) |
 | **Biography** | Chao Chen is an assistant professor at Stony Brook University. His research interest spans topological data analysis, machine learning and biomedical image analysis. He works on applying topological data analysis tools, such as persistent homology and discrete Morse theory, to biomedical image analysis and to generic machine learning problems. |
+
+<div id="presentation-embed-38938290"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938290', {
+        presentationId: '38938290',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
 
 ## Lorin Crawford
 
@@ -105,6 +165,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Twitter** | [@lorin_crawford](https://twitter.com/lorin_crawford) |
 | **Biography** | Lorin Crawford is a Senior Researcher at Microsoft Research New England.  He also holds a position as the RGSS Assistant Professor of Biostatistics at Brown University. His scientific research interests involve the development of novel and efficient computational methodologies to address complex problems in statistical genetics, cancer pharmacology, and radiomics (e.g., cancer imaging). Dr. Crawford has an extensive background in modeling massive data sets of high-throughput molecular information as it pertains to functional genomics and cellular-based biological processes. His most recent work has earned him a place on Forbes 30 Under 30 list, The Root 100 Most Influential African Americans list, and recognition as an Alfred P.  Sloan Research Fellow. |
 
+<div id="presentation-embed-38938289"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938289', {
+        presentationId: '38938289',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 ## Brittany Terese Fasy
 
 | <img src="/assets/images/speakers/btf.jpg" alt="Brittany Terese Fasy" height="250px" /> |
@@ -114,6 +184,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Affiliation** | [Montana State University](https://www.cs.montana.edu/brittany/) |
 | **Twitter** | [@topologybee](https://twitter.com/topologybee) |
 | **Biography** | Brittany Terese Fasy is an assistant professor at Montana State University. She earned her PhD from Duke University in 2012.  Her research is in computational topology.  She studies topological descriptors (such as the persistence diagram) from both theoretical and applied perspectives.  In addition, she studies data on graphs, directed topological spaces, and algorithmic problems in computational topology.  Her research is grounded in real-world applications, including road network analysis and prostate cancer prognosis. |  
+
+<div id="presentation-embed-38938292"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938292', {
+        presentationId: '38938292',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
 
 ## Robert Ghrist
 
@@ -125,6 +205,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Twitter** | [@robertghrist](https://twitter.com/robertghrist) |
 | **Biography** | Robert Ghrist is the Andrea Mitchell PIK Professor of Mathematics and Electrical & Systems Engineering at the University of Pennsylvania. After earning a BS in Mechanical Engineering (University of Toledo, 1991), and the MS and PhD in Applied Mathematics (Cornell University, 1994, 1995), he held positions in Mathematics departments at the University of Texas (Austin), Georgia Tech, and the University of Illinois (Urbana-Champaign). He has been at Penn since 2008. Ghrist is a recognized leader in the field of Applied Algebraic Topology, with publications detailing topological methods for sensor networks, robotics, signal processing, data analysis, optimization, and more. He is the author of a leading textbook on the subject (Elementary Applied Topology, 2014), and has managed numerous large DoD grants from AFOSR, ASDRE, DARPA, and ONR. His research has been recognized with the NSF CAREER, NSF PECASE, SciAm50, and Vannevar Bush Faculty Fellow awards. Ghrist has been an invited speaker at two International Congresses of Mathematicians: once (Madrid 2006) for research and once (Seoul, 2014) for education. Ghrist is a dedicated expositor and communicator of Mathematics, with teaching awards that include the MAA James Crawford Prize, Penn's Lindback Award, and the S. Reid Warren award in Engineering at Penn. Ghrist is the author, designer, and animator of popular YouTube video texts (featuring the Calculus BLUE Project), as well as an online course on Coursera featured in the New York Times, BoingBoing, and Gizmodo. |
 
+<div id="presentation-embed-38938297"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938297', {
+        presentationId: '38938297',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 ## Kathryn Hess
 
 | <img src="/assets/images/speakers/kb.jpg" alt="Kathryn Hess Bellwald" height="250px" /> |
@@ -134,6 +224,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Affiliation** | [École polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/labs/hessbellwald-lab/hessbellwald) |
 | **Biography** | Kathryn Hess is a professor of mathematics and life sciences at the EPFL.  She received her PhD from MIT and held positions at the universities of Stockholm, Nice, and Toronto before moving to the EPFL. Her research focuses on algebraic topology and its applications, primarily in the life sciences, but also in materials science. On the applied side, she has elaborated methods based on topological data analysis for high-throughput screening of nanoporous crystalline materials, classification and synthesis of neuron morphologies, and classification of neuronal network dynamics.  She has also developed and applied innovative topological approaches to network theory, leading to a powerful, parameter-free mathematical framework relating the activity of a neural network to its underlying structure, both locally and globally. In 2016 she was elected to Swiss Academy of Engineering Sciences and was named a fellow of the American Mathematical Society and a distinguished speaker of the European Mathematical Society in 2017. |
 
+<div id="presentation-embed-38938277"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938277', {
+        presentationId: '38938277',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 ## Yasu Hiraoka
 
 | <img src="/assets/images/speakers/yh.jpg" alt="Yasu Hiraoka" height="250px" /> |
@@ -142,6 +242,16 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [Kyoto University](https://sites.google.com/site/yasuakihiraoka) |
 | **Biography** | Yasu Hiraoka is a professor of Kyoto University Institute for the Advanced Study (KUIAS) at Kyoto University. He studies mathematical theory and algorithm of TDA, and also works on applying them into scientific and engineering problems. His primary interest is to develop descriptors for characterizing shape of complex and big data. By combining various mathematical theories such as topology, representation theory, probability theory, he succeeded in making TDA powerful and general for practical problems. In applications, he has organized the materials TDA team, and his group achieved several pioneering results on structural analysis in materials science based on TDA. In particular, a series of methods developed by his group using persistent homology, machine learning, and inverse analysis are expected to be a key technology for materials informatics in future. In addition to materials science, he has recently launched TDA projects on other application areas such as life science and economics. |
+
+<div id="presentation-embed-38938282"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938282', {
+        presentationId: '38938282',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
 
 ## Lida Kanari
 
@@ -161,6 +271,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Twitter** | [@ManuKaul1](https://twitter.com/ManuKaul1) |
 | **Biography** | Manohar Kaul is an Assistant Professor in the Computer Science and Engineering Department at the Indian Institute of Technology (IIT) Hyderabad, India. He received his Ph.D. from Aarhus University, Denmark and his Masters from Uppsala University, Sweden. He also worked at DIMA, TU Berlin as a Postdoc. His key research interests span machine learning, graph theory, and applied algebraic topology. |
 
+<div id="presentation-embed-38938281"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938281', {
+        presentationId: '38938281',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 ## Leland McInnes
 
 | <img src="/assets/images/speakers/lm.jpg" alt="Leland McInnes" height="250px" /> |
@@ -171,6 +291,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Twitter** | [@leland_mcinnes](https://twitter.com/leland_mcinnes) | 
 | **Biography** | Leland McInnes is a researcher at the Tutte Institute for Mathematics and Computing working on topologically motivated methods in data science. He balances his time between theoretical research, software engineering and implementation, and domain specific problems. |
 
+<div id="presentation-embed-38938299"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938299', {
+        presentationId: '38938299',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 ## Facundo Mémoli
 
 | <img src="/assets/images/speakers/fm.jpg" alt="Facundo Mémoli" height="250px" /> |
@@ -179,6 +309,16 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [Ohio State University](https://people.math.osu.edu/memolitechera.1) |
 | **Biography** | Facundo Mémoli is a professor in the Department of Mathematics and in the Department of Computer Science and Engineering at the Ohio State University. his research interests include topics in the intersection of metric geometry, topology, optimal transport, and applications to science and engineering such as topological data analysis, and networks. |
+
+<div id="presentation-embed-38938300"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938300', {
+        presentationId: '38938300',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
 
 ## Liz Munch
 
@@ -190,6 +330,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Twitter** | [@elizabethmunch](https://twitter.com/elizabethmunch) | 
 | **Biography** | Liz received her PhD from the Department of Mathematics at Duke University in May 2013. Prior to joining the faculty of Michigan State University, she was an Assistant Professor in the Department of Mathematics and Statistics at the University at Albany - SUNY, and a Postdoctoral Fellow at the Institute for Mathematics and its Applications at the University of Minnesota for the 2013-2014 thematic year on applications of topology. She also holds a Master of Arts in Mathematics from Duke University, a Bachelor of Science in Mathematics from the University of Rochester, and a Bachelor of Music in Harp Performance from the Eastman School of Music. When she isn't thinking about TDA, she's chasing her two sons around, playing video games, or watching bad sci-fi. |
 
+<div id="presentation-embed-38938298"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938298', {
+        presentationId: '38938298',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 ## Vidit Nanda
 
 | <img src="/assets/images/speakers/vn.jpg" alt="Vidit Nanda" height="250px" /> |
@@ -200,6 +350,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Twitter** | [@viditnanda](https://twitter.com/viditnanda) | 
 | **Biography** | Vidit Nanda is an Associate Professor of Mathematics at Oxford, working broadly in the field of applied algebraic topology. Before coming to Oxford, he held postdoctoral positions at the Institute for Advanced Study, the Alan Turing Institute, and the University of Pennsylvania. |
 
+<div id="presentation-embed-38938278"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938278', {
+        presentationId: '38938278',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 ## Jose Perea
 
 | <img src="/assets/images/speakers/jp.jpg" alt="Jose Perea Munch" height="250px" /> |
@@ -208,6 +368,16 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [Michigan State University](https://www.joperea.com) |
 | **Biography** | I got my Ph.D. in Mathematics from [Stanford University](https://www.stanford.edu/) in 2011, and a B.Sc. in Mathematics from [Universidad del Valle](https://www.univalle.edu.co/) (Summa cum laude and Valedictorian) in 2006. I was a postdoc in the department of Mathematics at [Duke](https://duke.edu) from 2011 to 2015, and a member of the Institute for Mathematics and its Applications ([IMA](https://www.ima.umn.edu/2013-2014)) at the University of Minnesota during the Fall of 2014. In August of 2015 I joined [Michigan State University](https://msu.edu/) as an Assistant Professor with joint appointments in the department of Computational Mathematics, Science & Engineering ([CMSE](https://cmse.msu.edu)), and the department of [Mathematics](https://math.msu.edu). My work has been supported by grants from [DARPA](https://www.darpa.mil/), the [National Science Foundation](https://www.nsf.gov/), the [Center for Business and Social Analytics](http://cbsa.msu.edu/), and an [NSF CAREER award](https://www.nsf.gov/career). |
+
+<div id="presentation-embed-38938295"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938295', {
+        presentationId: '38938295',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
 
 ## Laxmi Parida
 
@@ -219,6 +389,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Affiliation** | [IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=us-parida) |
 | **Biography** | Dr. Laxmi Parida is an IBM Fellow, Master Inventor and heads the Computational Genomics at the IBM Thomas J. Watson Research Center, USA. She is a visiting professor at the Courant Institute of Mathematical Sciences, New York. Over the last 10 years, she has led the IBM Science team in the Cacao Consortium (with MARS, USDA), the Genographic Project with National Geographic, the Bioinformatics team in the "Sequence the Food Supply Chain Consortium" across multiple global IBM labs, and the science team in the personalized cancer medicine system. Her research areas include population genomics, cancer genomics, metagenomics, algorithms (including AI) and topological data analysis. She has published over 200 peer-reviewed research papers; edited 10 volumes and authored a monograph on pattern discovery in bioinformatics. She holds over 40 US patents. She is on the advisory board of NYU Engineering School and editorial board of BMC Bioinformatics, Journal of Computational Biology and an Associate Editor, IEEE/ACM Transactions on Computational Biology and Bioinformatics and SIAM Journal of Discrete Mathematics. |
 
+<div id="presentation-embed-38938467"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938467', {
+        presentationId: '38938467',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 ## Don Sheehy
 
 | <img src="/assets/images/speakers/ds.png" alt="Don Sheehy" height="250px" /> |
@@ -228,6 +408,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Affiliation** | [North Carolina State University](http://donsheehy.net) |
 | **Biography** | Don Sheehy is an Associate Professor of Computer Science at North Carolina State University.  He completed his undergraduate studies at Princeton University and received a PhD in Computer Science from Carnegie Mellon University.  His research focuses on the interplay of geometry, topology, and algorithms. |
 
+<div id="presentation-embed-38938293"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938293', {
+        presentationId: '38938293',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 ## Katharine Turner
 
 | **Affiliation** | [Australian National University](https://maths.anu.edu.au/people/academics/katharine-turner) |
@@ -235,6 +425,16 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Wasserstein Stability for Persistence Diagrams** |
 | The stability of persistence diagrams is among the most important results in applied and computational topology but most results are with respect to the bottleneck distance between diagrams. This has two main implications: it makes the space of persistence diagrams rather pathological and it is often provides very pessimistic bounds with respect to outliers. In this talk I will discuss new stability results with respect to the p-Wasserstein distance between persistence diagrams. The foundations are cellular stability functions on sufficiently finite spaces in terms of the p-norm of the perturbations. This has applications to image analysis, persistence homology transforms and Vietoris-Rips complexes. This is joint work with Primoz Skraba. |
+
+<div id="presentation-embed-38938280"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938280', {
+        presentationId: '38938280',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
 
 ## Bei Wang
 
@@ -246,6 +446,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Twitter** | [@beiphillips](https://twitter.com/beiphillips) |
 | **Biography** | Bei Wang is an assistant professor at the School of Computing and a faculty member in the Scientific Computing and Imaging (SCI) Institute, University of Utah. She received her Ph.D. in Computer Science from Duke University.  Her research interests include topological data analysis, data visualization, computational topology, machine learning, and data mining.  Her work spans both theoretical and applied research. Some of her recent research activities draw inspirations from topology, geometry, and machine learning, in studying brain networks, vector fields, tensor fields, and high-dimensional point clouds that arise from scientific simulations. |
 
+<div id="presentation-embed-38938288"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938288', {
+        presentationId: '38938288',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 ## Yusu Wang
 
 | <img src="/assets/images/speakers/yw.jpg" alt="Yusu Wang" height="250px" /> |
@@ -255,6 +465,16 @@ is expanded on a rolling basis, stay tuned for more!):
 | **Affiliation** | [University of California, San Diego](http://yusu.belkin-wang.org/) |
 | **Biography** | Yusu Wang obtained her M.S and Ph.D degrees from Duke University (receiving the Best PhD Dissertation Award at the CS Department), and her B.S. degree from Tsinghua Univ (graduated with First Class Honors). From 2004-2005, she was a post-doctoral researcher at the Geometric Computing lab in Stanford. Prior to joining UCSD, Yusu Wang was a Professor in the Computer Science and Engineering Department at the Ohio State University. She co-directed the Foundations of Data Science Research Community of Practice (CoP) at the Translational Data Analytics Institute (TDAI@OSU) from 2018-2020. In 2006, she received a DOE (Dept. of Energy) Career award, and an NSF (National Science Foundation) Career award in 2008. She is on the editorial board for SICOMP, JoCG, and CGTA; moreover,  she currently serves on the Computational Geometry Steering Committee.  Yusu primarily works in the fields of Computational geometry, applied topology, as well as topological and geometric data analysis (TGDA). Her work lies at the intersection of computer science (especially algorithms) and applied mathematics (especially applied topology, discrete and combinatorial geometry). She is particularly interested in developing effective and theoretically justified algorithms for data / shape analysis using geometric and topological ideas and methods, as well as to integrate such methods with machine learning frameworks.  Yusu aims to both provide theoretical understanding of various computational methods developed, and to apply them to practical domains, including computational biology, computational neuroanatomy, material science, computer graphics and visualization. |
 
+<div id="presentation-embed-38938296"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938296', {
+        presentationId: '38938296',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 ## Yuzuru Yamakage
 
 | <img src="/assets/images/speakers/yy.jpg" alt="Yuzuru Yamakage" height="250px" /> |
@@ -263,3 +483,13 @@ is expanded on a rolling basis, stay tuned for more!):
 
 | **Affiliation** | [Fujitsu Ltd.](https://www.researchgate.net/profile/Yuzuru_Yamakage) |
 | **Biography** | Yuzuru Yamakage received his Ph.D. in 1997 from Tohoku University. He then joined Fujitsu Laboratories Ltd. with a focus on Data Analytics Technology. In 2015, he moved to the AI Service Business Unit at Fujitsu Ltd. and became the Director of the AI Service Dept. of the Software Technology Business Unit of Fujitsu Ltd. in 2020. |
+
+<div id="presentation-embed-38938279"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38938279', {
+        presentationId: '38938279',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
