@@ -172,6 +172,7 @@ or the Slack channel to ask your questions.
 - [Chao Chen](/speakers#chao-chen)
 - [Lorin Crawford](/speakers#lorin-crawford)
 - [Leland McInnes](/speakers#leland-mcinnes)
+- [Lida Kanari](/speakers#lida-kanari)
 - [Liz Munch](/speakers#liz-munch)
 - [Don Sheehy](/speakers#don-sheehy)
 - [Katharine Turner](/speakers#katharine-turner)
