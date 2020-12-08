@@ -27,6 +27,7 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [R.U. Gobithaasan](https://sites.google.com/site/gobithaasan) (Universiti Malaysia Terengganu, [@gobithaasan](https://twitter.com/gobithaasan))
 - [Daniel Goldsmith](https://www.danielgoldsmith.net) (Yeshiva University & Heights Labs, [@daniel_goldsmth](https://twitter.com/daniel_goldsmth))
 - [Celia Hacker](https://people.epfl.ch/celia.hacker?lang=en) (EPFL)
+- [Felix Hensel](https://hensel-f.github.io) (ETH Zurich)
 - [Max Horn](https://expectationmax.github.io) (ETH Zurich, [@ExpectationMax](https://twitter.com/ExpectationMax))
 - [Steve Huntsman](https://scholar.google.com/citations?user=MubPycgAAAAJ) (Systems & Technology Research)
 - [Paul Samuel Ignacio](https://paulsamuelignacio.weebly.com) (University of the Philippines Baguio)
