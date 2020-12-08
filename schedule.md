@@ -80,15 +80,15 @@ or the Slack channel to ask your questions.
 
 ## Participants in this panel
 
-- [Serguei Barannikov](/speakers/#serguei-barannikov)
-- [Ulrich Bauer](/speakers/#ulrich-bauer)
-- [Mathieu Carrière](/speakers/#mathieu-carrière)
-- [Robert Ghrist](/speakers/#robert-ghrist)
-- [Yasu Hiraoka](/speakers/#yasu-hiraoka)
-- [Manohar Kaul](/speakers/#manohar-kaul)
-- [Vidit Nanda](/speakers/#vidit-nanda)
-- [Katharine Turner](/speakers/#katharine-turner)
-- [Yuzuru Yamakage](/speakers/#yuzuru-yamakage)
+- [Serguei Barannikov](/speakers#serguei-barannikov)
+- [Ulrich Bauer](/speakers#ulrich-bauer)
+- [Mathieu Carrière](/speakers#mathieu-carrière)
+- [Robert Ghrist](/speakers#robert-ghrist)
+- [Yasu Hiraoka](/speakers#yasu-hiraoka)
+- [Manohar Kaul](/speakers#manohar-kaul)
+- [Vidit Nanda](/speakers#vidit-nanda)
+- [Katharine Turner](/speakers#katharine-turner)
+- [Yuzuru Yamakage](/speakers#yuzuru-yamakage)
 
 # Poster Session II
 
@@ -124,17 +124,17 @@ or the Slack channel to ask your questions.
 
 ## Participants in this panel
 
-- [Serguei Barannikov](/speakers/#serguei-barannikov)
-- [Ulrich Bauer](/speakers/#ulrich-bauer)
-- [Andrew J. Blumberg](/speakers/#andrew-j-blumberg)
-- [Gunnar Carlsson](/speakers/#gunnar-carlsson)
-- [Mathieu Carrière](/speakers/#mathieu-carrière)
-- [Chao Chen](/speakers/#chao-chen)
-- [Brittany Terese Fasy](/speakers/#brittany-terese-fasy)
-- [Kathryn Hess](/speakers/#kathryn-hess)
-- [Laxmi Parida](/speakers/#laxmi-parida)
-- [Don Sheehy](/speakers/#don-sheehy)
-- [Bei Wang](/speakers/#bei-wang)
+- [Serguei Barannikov](/speakers#serguei-barannikov)
+- [Ulrich Bauer](/speakers#ulrich-bauer)
+- [Andrew J. Blumberg](/speakers#andrew-j-blumberg)
+- [Gunnar Carlsson](/speakers#gunnar-carlsson)
+- [Mathieu Carrière](/speakers#mathieu-carrière)
+- [Chao Chen](/speakers#chao-chen)
+- [Brittany Terese Fasy](/speakers#brittany-terese-fasy)
+- [Kathryn Hess](/speakers#kathryn-hess)
+- [Laxmi Parida](/speakers#laxmi-parida)
+- [Don Sheehy](/speakers#don-sheehy)
+- [Bei Wang](/speakers#bei-wang)
 
 # Poster Session III
 
@@ -167,12 +167,12 @@ or the Slack channel to ask your questions.
 
 ## Participants in this panel
 
-- [Andrew J. Blumberg](#andrew-j-blumberg)
-- [Peter Bubenik](#peter-bubenik)
-- [Chao Chen](#chao-chen)
-- [Lorin Crawford](#lorin-crawford)
-- [Leland McInnes](#leland-mcinnes)
-- [Liz Munch](#liz-munch)
-- [Don Sheehy](#don-sheehy)
-- [Katharine Turner](#katharine-turner)
-- [Yusu Wang](#yusu-wang)
+- [Andrew J. Blumberg](/speakers#andrew-j-blumberg)
+- [Peter Bubenik](/speakers#peter-bubenik)
+- [Chao Chen](/speakers#chao-chen)
+- [Lorin Crawford](/speakers#lorin-crawford)
+- [Leland McInnes](/speakers#leland-mcinnes)
+- [Liz Munch](/speakers#liz-munch)
+- [Don Sheehy](/speakers#don-sheehy)
+- [Katharine Turner](/speakers#katharine-turner)
+- [Yusu Wang](/speakers#yusu-wang)
