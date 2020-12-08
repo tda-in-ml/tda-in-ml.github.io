@@ -175,4 +175,3 @@ or the Slack channel to ask your questions.
 - [Liz Munch](/speakers#liz-munch)
 - [Don Sheehy](/speakers#don-sheehy)
 - [Katharine Turner](/speakers#katharine-turner)
-- [Yusu Wang](/speakers#yusu-wang)
