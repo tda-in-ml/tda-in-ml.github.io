@@ -79,8 +79,17 @@ is expanded on a rolling basis, stay tuned for more!):
 ## Andrew J. Blumberg
 
 | <img src="/assets/images/speakers/ab.jpg" alt="Andrew J. Blumberg" height="250px" /> |
+| **Stability of 2-Parameter Persistent Homology** |
+| I will describe recent joint work with Lesnick that establishes probabilistic stability results for certain density-sensitive bifiltrations of point-cloud data. |
 
 | **Affiliation** | [University of Texas at Austin](https://web.ma.utexas.edu/users/blumberg) |
+
+<div>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/xX3_LieqT7o" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Peter Bubenik
 
