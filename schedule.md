@@ -82,7 +82,6 @@ or the Slack channel to ask your questions.
 
 - [Serguei Barannikov](/speakers#serguei-barannikov)
 - [Ulrich Bauer](/speakers#ulrich-bauer)
-- [Mathieu Carrière](/speakers#mathieu-carrière)
 - [Robert Ghrist](/speakers#robert-ghrist)
 - [Yasu Hiraoka](/speakers#yasu-hiraoka)
 - [Manohar Kaul](/speakers#manohar-kaul)
@@ -128,13 +127,13 @@ or the Slack channel to ask your questions.
 - [Ulrich Bauer](/speakers#ulrich-bauer)
 - [Andrew J. Blumberg](/speakers#andrew-j-blumberg)
 - [Gunnar Carlsson](/speakers#gunnar-carlsson)
-- [Mathieu Carrière](/speakers#mathieu-carrière)
 - [Chao Chen](/speakers#chao-chen)
 - [Brittany Terese Fasy](/speakers#brittany-terese-fasy)
 - [Kathryn Hess](/speakers#kathryn-hess)
 - [Laxmi Parida](/speakers#laxmi-parida)
 - [Don Sheehy](/speakers#don-sheehy)
 - [Bei Wang](/speakers#bei-wang)
+- [Yusu Wang](/speakers#yusu-wang)
 
 # Poster Session III
 
