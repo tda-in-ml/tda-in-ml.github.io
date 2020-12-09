@@ -32,6 +32,7 @@ a detailed breakdown of poster sessions.
 | <span style="font-family: monospace;">13:30--13:30</span> |  <span style="font-family: monospace;">07:00--07:30</span> | Lida Kanari (**live**)      |
 | <span style="font-family: monospace;">13:30--13:45</span> |  <span style="font-family: monospace;">07:30--07:45</span> | Peter Bubenik               |
 | <span style="font-family: monospace;">13:45--14:00</span> |  <span style="font-family: monospace;">07:45--08:00</span> | Andrew J. Blumberg          |
+| <span style="font-family: monospace;">14:00--14:45</span> |  <span style="font-family: monospace;">08:00--08:45</span> | Demo Session `Teaspoon Package` (**live** in Gather.Town)                    |
 | <span style="font-family: monospace;">14:00--14:15</span> |  <span style="font-family: monospace;">08:00--08:15</span> | Bei Wang                    |
 | <span style="font-family: monospace;">14:15--14:30</span> |  <span style="font-family: monospace;">08:15--08:30</span> | Lorin Crawford              |
 | <span style="font-family: monospace;">14:30--14:45</span> |  <span style="font-family: monospace;">08:30--08:45</span> | Chao Chen                   |
