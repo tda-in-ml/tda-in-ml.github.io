@@ -16,7 +16,7 @@ of the organisation committee independently.
 
 Congratulations to all authors!
 
-# Accepted Papers
+# Spotlights
 
 **$k$-simplex2vec: a simplicial extension of node2vec** (Spotlight presentation)<br />
 Celia Hacker<br />
@@ -26,9 +26,214 @@ Celia Hacker<br />
 [Poster](https://openreview.net/attachment?id=Aw9DUXPjq55&name=Poster) &bull;
 [Forum](https://openreview.net/forum?id=Aw9DUXPjq55)
 
+<div id="presentation-embed-38941577"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38941577', {
+        presentationId: '38941577',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 <div style="text-align:center">
 &#10086;
 </div>
+
+**Characterizing the Latent Space of Molecular Deep Generative Models with Persistent Homology Metrics** (Spotlight presentation)<br />
+Yair Schiff &bull; Payel Das &bull; Vijil Chenthamarakshan &bull; Karthikeyan Natesan Ramamurthy<br />
+<abstract>Deep generative models are increasingly becoming integral parts of the in silico molecule design pipeline and have dual goals of learning the chemical and structural features that render candidate molecules viable while also being flexible enough to generate novel designs. Specifically, Variational Auto Encoders (VAEs) are generative models in which encoder-decoder network pairs are trained to reconstruct training data distributions in such a way that the latent space of the encoder network is smooth. Therefore, novel candidates can be found by sampling from this latent space. However, the scope of architectures and hyperparameters is vast and choosing the best combination for in silico discovery has important implications for downstream success. Therefore, it is important to develop a principled methodology for distinguishing how well a given generative model is able to learn salient molecular features. In this work, we propose a method for measuring how well the latent space of deep generative models is able to encode structural and chemical features of molecular datasets by correlating latent space metrics with metrics from the field of topological data analysis (TDA). We apply our evaluation methodology to a VAE trained on SMILES strings and show that 3D topology information is consistently encoded throughout the latent space of the model.</abstract>
+
+[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
+[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
+
+<div id="presentation-embed-38941579"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38941579', {
+        presentationId: '38941579',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
+<div style="text-align:center">
+&#10086;
+</div>
+
+**giotto-tda: A Topological Data Analysis Toolkit for Machine Learning and Data Exploration** (Spotlight presentation)<br />
+Guillaume Tauzin &bull; Umberto Lupo &bull; Lewis Tunstall &bull; Julian Burella Perez &bull; Matteo Caorsi &bull; Wojciech Reise &bull; Anibal Maximiliano Medina-Mardones &bull; Alberto Dassatti &bull; Kathryn Hess<br />
+<abstract>We introduce giotto-tda, a Python library that integrates high-performance topological data analysis with machine learning via a scikit-learn-compatible API and state-of-the-art C++ implementations. The library's ability to handle various types of data is rooted in a wide range of preprocessing techniques, and its strong focus on data exploration and interpretability is aided by an intuitive plotting API. Source code, binaries, examples, and documentation can be found at https://github.com/giotto-ai/giotto-tda</abstract>
+
+[PDF](https://openreview.net/pdf?id=fjQtZJOCTXf) &bull;
+[Poster](https://openreview.net/attachment?id=fjQtZJOCTXf&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=fjQtZJOCTXf)
+
+<div id="presentation-embed-38941576"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38941576', {
+        presentationId: '38941576',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
+<div style="text-align:center">
+&#10086;
+</div>
+
+**Hypothesis classes with a unique persistence diagram are nonuniformly learnable** (Spotlight presentation)<br />
+Nicholas Bishop &bull; Thomas Davies &bull; Long Tran-Thanh<br />
+<abstract>Persistence-based summaries are increasingly integrated into deep learning through topological loss functions or regularisers. The implicit role of a topological term in a loss function is to restrict the class of functions in which we are learning (the hypothesis class) to those with a specific topology. Although doing so has had empirical success, to the best of our knowledge there exists no result in the literature that theoretically justifies this restriction. Given a binary classifier in the plane with a Morse-like decision boundary, we prove that the hypothesis class defined by restricting the topology of the possible decision boundaries to those with a unique persistence diagram results in a nonuniformly learnable class of functions. In doing so, we provide a statistical learning theoretic justification for the use of persistence-based summaries in loss functions.</abstract>
+
+[PDF](https://openreview.net/pdf?id=Ay-RgChnje) &bull;
+[Poster](https://openreview.net/attachment?id=Ay-RgChnje&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=Ay-RgChnje)
+
+<div id="presentation-embed-38941574"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38941574', {
+        presentationId: '38941574',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
+<div style="text-align:center">
+&#10086;
+</div>
+
+**Multidimensional Persistence Module Classification via Lattice-Theoretic Convolutions** (Spotlight presentation)<br />
+Hans Matthew Riess &bull; Jakob Hansen<br />
+<abstract>Multiparameter persistent homology has been largely neglected as an input to machine learning algorithms. We consider the use of lattice-based convolutional neural network layers as a tool for the analysis of features arising from multiparameter persistence  modules. We find that these show promise as an alternative to convolutions for the classification of multidimensional persistence modules.</abstract>
+
+[PDF](https://openreview.net/pdf?id=CqFcRp-_mUD) &bull;
+[Poster](https://openreview.net/attachment?id=CqFcRp-_mUD&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=CqFcRp-_mUD)
+
+<div id="presentation-embed-38941581"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38941581', {
+        presentationId: '38941581',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
+<div style="text-align:center">
+&#10086;
+</div>
+
+**Permutation invariant networks to learn Wasserstein metrics** (Spotlight presentation)<br />
+Arijit Sehanobish &bull; Neal G Ravindra &bull; David van Dijk<br />
+<abstract>Understanding the space of probability measures on a metric space equipped with a Wasserstein distance is one of the fundamental questions in mathematical analysis. The Wasserstein metric has received a lot of attention in the machine learning community especially for its principled way of comparing distributions. In this work, we use a permutation invariant network to map samples from probability measures into a low-dimensional space such that the Euclidean distance between the encoded samples reflects the Wasserstein distance between probability measures. We show that our network can generalize to correctly compute distances between unseen densities. We also show that these networks can learn the first and the second moments of probability distributions. </abstract>
+
+[PDF](https://openreview.net/pdf?id=VFP81oXIxeh) &bull;
+[Poster](https://openreview.net/attachment?id=VFP81oXIxeh&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=VFP81oXIxeh)
+
+<div id="presentation-embed-38941580"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38941580', {
+        presentationId: '38941580',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
+<div style="text-align:center">
+&#10086;
+</div>
+
+**Quantifying barley morphology using the Euler characteristic transform** (Spotlight presentation)<br />
+Erik J Amezquita &bull; Michelle Quigley &bull; Tim Ophelders &bull; Jacob Landis &bull; Elizabeth Munch &bull; Daniel Chitwood &bull; Daniel Koenig<br />
+<abstract>Shape is foundational to biology. Observing and documenting shape has fueled biological understanding, and from this perspective, it is also a type of data.  The vision of topological data analysis, that data is shape and shape is data, will be relevant as biology transitions into a data-driven era where meaningful interpretation of large data sets is a limiting factor. We focus first on quantifying the morphology of barley spikes and seeds using topological descriptors based on the Euler characteristic. We then successfully train a support vector machine to classify 28 different varieties of barley based solely on the shape of their grains.</abstract>
+
+[PDF](https://openreview.net/pdf?id=cIRwkIETJBs) &bull;
+[Poster](https://openreview.net/attachment?id=cIRwkIETJBs&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=cIRwkIETJBs)
+
+<div id="presentation-embed-38941575"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38941575', {
+        presentationId: '38941575',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
+<div style="text-align:center">
+&#10086;
+</div>
+
+**Sheaf Neural Networks** (Spotlight presentation)<br />
+Jakob Hansen &bull; Thomas Gebhart<br />
+<abstract>We present a generalization of graph convolutional networks by generalizing the diffusion operation underlying this class of graph neural networks. These \emph{sheaf neural networks} are based on the \emph{sheaf Laplacian}, a generalization of the graph Laplacian that encodes additional relational structure parameterized by the underlying graph. The sheaf Laplacian and associated matrices provide an extended version of the diffusion operation in graph convolutional networks, providing a proper generalization for domains where relations between nodes are non-constant, asymmetric, and varying in dimension. We show that the resulting sheaf neural networks can outperform graph convolutional networks in domains where relations between nodes are asymmetric and signed.</abstract>
+
+[PDF](https://openreview.net/pdf?id=GgcgIJsT8HD) &bull;
+[Poster](https://openreview.net/attachment?id=GgcgIJsT8HD&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=GgcgIJsT8HD)
+
+<div id="presentation-embed-38941578"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38941578', {
+        presentationId: '38941578',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
+<div style="text-align:center">
+&#10086;
+</div>
+
+**Topo Sampler: A Topology Constrained Noise Sampling for GANs** (Spotlight presentation)<br />
+Adrish Dey &bull; Sayantan Das<br />
+<abstract>This work studies disconnected manifold learning in generative models in the light of point-set topology and persistent homology. Under this formalism, the topological similarity of latent space in generative models with the underlying manifold of data distribution facilitates better generalization. To achieve this, we introduce a topology-constrained noise sampler, responsible for mapping the samples from Gaussian spheres to a latent embedding space, which in turn is constrained to be topologically similar to the manifold underlying the data distribution. We study the effectiveness of this method in GANs for learning disconnected manifolds. This is ongoing research, with the current report containing preliminary empirical experiments.</abstract>
+
+[PDF](https://openreview.net/pdf?id=OTxZfmVFlTO) &bull;
+[Poster](https://openreview.net/attachment?id=OTxZfmVFlTO&name=Poster) &bull;
+[Forum](https://openreview.net/forum?id=OTxZfmVFlTO)
+
+<div id="presentation-embed-38941572"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38941572', {
+        presentationId: '38941572',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
+<div style="text-align:center">
+&#10086;
+</div>
+
+**Weighting vectors for machine learning: numerical harmonic analysis applied to boundary detection** (Spotlight presentation)<br />
+Eric Bunch &bull; Daniel Dickinson &bull; Jeffery Kline &bull; Glenn Fung<br />
+<abstract>Metric space magnitude, an active subject of research in algebraic topology, aims to quantify the effective number of distinct points in a space. The contribution of each point to a metric space’s global magnitude, which is encoded by the {\em weighting vector}, captures much of the underlying geometry of the original metric space. When the metric space is Euclidean, the weighting vector also serves as an effective tool for boundary detection. This allows the weighting vector to serve as the foundation of novel algorithms for classic machine learning tasks such as classification, outlier detection and active learning.   We demonstrate, using experiments and comparisons on classic benchmark datasets, the promise of the proposed magnitude and weighting vector-based approaches.</abstract>
+
+[PDF](https://openreview.net/pdf?id=AwBwKEzfaXG) &bull;
+[Forum](https://openreview.net/forum?id=AwBwKEzfaXG)
+
+<div id="presentation-embed-38941573"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38941573', {
+        presentationId: '38941573',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
+# Accepted Posters
 
 **0-dimensional Homology Preserving Dimensionality Reduction with TopoMap** <br />
 Harish Doraiswamy &bull; Julien Tierny &bull; Paulo J.S. Silva &bull; Luis Gustavo Nonato &bull; Cláudio Silva<br />
@@ -103,18 +308,6 @@ Michael Moor &bull; Max Horn &bull; Karsten Borgwardt &bull; Bastian Rieck<br />
 &#10086;
 </div>
 
-**Characterizing the Latent Space of Molecular Deep Generative Models with Persistent Homology Metrics** (Spotlight presentation)<br />
-Yair Schiff &bull; Payel Das &bull; Vijil Chenthamarakshan &bull; Karthikeyan Natesan Ramamurthy<br />
-<abstract>Deep generative models are increasingly becoming integral parts of the in silico molecule design pipeline and have dual goals of learning the chemical and structural features that render candidate molecules viable while also being flexible enough to generate novel designs. Specifically, Variational Auto Encoders (VAEs) are generative models in which encoder-decoder network pairs are trained to reconstruct training data distributions in such a way that the latent space of the encoder network is smooth. Therefore, novel candidates can be found by sampling from this latent space. However, the scope of architectures and hyperparameters is vast and choosing the best combination for in silico discovery has important implications for downstream success. Therefore, it is important to develop a principled methodology for distinguishing how well a given generative model is able to learn salient molecular features. In this work, we propose a method for measuring how well the latent space of deep generative models is able to encode structural and chemical features of molecular datasets by correlating latent space metrics with metrics from the field of topological data analysis (TDA). We apply our evaluation methodology to a VAE trained on SMILES strings and show that 3D topology information is consistently encoded throughout the latent space of the model.</abstract>
-
-[PDF](https://openreview.net/pdf?id=AN6v6MkWG__) &bull;
-[Poster](https://openreview.net/attachment?id=AN6v6MkWG__&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=AN6v6MkWG__)
-
-<div style="text-align:center">
-&#10086;
-</div>
-
 **Comparing Distance Metrics on Vectorized Persistence Summaries** <br />
 Brittany Fasy &bull; Yu Qin &bull; Brian Summa &bull; Carola Wenk<br />
 <abstract>The persistence diagram (PD) is an important tool in topological data analysis for encoding an abstract representation of the homology of a shape at different scales. Different vectorizations of PD summary are commonly used in machine learning applications, however distances between vectorized persistence summaries may differ greatly from the distances between the original PDs. Surprisingly, no research has been carried out in this area before. In this work we compare distances between PDs and between different commonly used vectorizations. Our results give new insights into comparing vectorized persistence summaries and can be used to design better feature-based learning models based on PDs.</abstract>
@@ -163,18 +356,6 @@ Thomas Davies &bull; Jack Aspinall &bull; Bryan Wilder &bull; Long Tran-Thanh<br
 &#10086;
 </div>
 
-**giotto-tda: A Topological Data Analysis Toolkit for Machine Learning and Data Exploration** (Spotlight presentation)<br />
-Guillaume Tauzin &bull; Umberto Lupo &bull; Lewis Tunstall &bull; Julian Burella Perez &bull; Matteo Caorsi &bull; Wojciech Reise &bull; Anibal Maximiliano Medina-Mardones &bull; Alberto Dassatti &bull; Kathryn Hess<br />
-<abstract>We introduce giotto-tda, a Python library that integrates high-performance topological data analysis with machine learning via a scikit-learn-compatible API and state-of-the-art C++ implementations. The library's ability to handle various types of data is rooted in a wide range of preprocessing techniques, and its strong focus on data exploration and interpretability is aided by an intuitive plotting API. Source code, binaries, examples, and documentation can be found at https://github.com/giotto-ai/giotto-tda</abstract>
-
-[PDF](https://openreview.net/pdf?id=fjQtZJOCTXf) &bull;
-[Poster](https://openreview.net/attachment?id=fjQtZJOCTXf&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=fjQtZJOCTXf)
-
-<div style="text-align:center">
-&#10086;
-</div>
-
 **Hotspot identification for Mapper graphs** <br />
 Ciara Frances Loughrey &bull; Anna Jurek-Loughrey &bull; Nick Orr &bull; Pawel Dlotko<br />
 <abstract>Mapper algorithm can be used to build graph-based representations of high-dimensional data capturing structurally interesting features such as loops, flares or clusters. The graph can be further annotated with additional colouring of vertices allowing location of regions of special interest. For instance, in many applications, such as precision medicine, Mapper graph has been used to identify unknown compactly localized subareas within the dataset demonstrating unique or unusual behaviours. This task, performed so far by a researcher, can be automatized using hotspot analysis. In this work we propose a new algorithm for detecting hotspots in Mapper graphs. It allows automatizing of the hotspot detection process. We demonstrate the performance of the algorithm on a number of artificial and real world datasets. We further demonstrate how our algorithm can be used for the automatic selection of the Mapper lens functions. </abstract>
@@ -182,18 +363,6 @@ Ciara Frances Loughrey &bull; Anna Jurek-Loughrey &bull; Nick Orr &bull; Pawel D
 [PDF](https://openreview.net/pdf?id=reLv5jl2adC) &bull;
 [Poster](https://openreview.net/attachment?id=reLv5jl2adC&name=Poster) &bull;
 [Forum](https://openreview.net/forum?id=reLv5jl2adC)
-
-<div style="text-align:center">
-&#10086;
-</div>
-
-**Hypothesis classes with a unique persistence diagram are nonuniformly learnable** (Spotlight presentation)<br />
-Nicholas Bishop &bull; Thomas Davies &bull; Long Tran-Thanh<br />
-<abstract>Persistence-based summaries are increasingly integrated into deep learning through topological loss functions or regularisers. The implicit role of a topological term in a loss function is to restrict the class of functions in which we are learning (the hypothesis class) to those with a specific topology. Although doing so has had empirical success, to the best of our knowledge there exists no result in the literature that theoretically justifies this restriction. Given a binary classifier in the plane with a Morse-like decision boundary, we prove that the hypothesis class defined by restricting the topology of the possible decision boundaries to those with a unique persistence diagram results in a nonuniformly learnable class of functions. In doing so, we provide a statistical learning theoretic justification for the use of persistence-based summaries in loss functions.</abstract>
-
-[PDF](https://openreview.net/pdf?id=Ay-RgChnje) &bull;
-[Poster](https://openreview.net/attachment?id=Ay-RgChnje&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=Ay-RgChnje)
 
 <div style="text-align:center">
 &#10086;
@@ -260,18 +429,6 @@ Michael Kerber<br />
 &#10086;
 </div>
 
-**Multidimensional Persistence Module Classification via Lattice-Theoretic Convolutions** (Spotlight presentation)<br />
-Hans Matthew Riess &bull; Jakob Hansen<br />
-<abstract>Multiparameter persistent homology has been largely neglected as an input to machine learning algorithms. We consider the use of lattice-based convolutional neural network layers as a tool for the analysis of features arising from multiparameter persistence  modules. We find that these show promise as an alternative to convolutions for the classification of multidimensional persistence modules.</abstract>
-
-[PDF](https://openreview.net/pdf?id=CqFcRp-_mUD) &bull;
-[Poster](https://openreview.net/attachment?id=CqFcRp-_mUD&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=CqFcRp-_mUD)
-
-<div style="text-align:center">
-&#10086;
-</div>
-
 **Multiple Hypothesis Testing with Persistent Homology** <br />
 Mikael Vejdemo-Johansson &bull; Sayan Mukherjee<br />
 <abstract>Multiple hypothesis testing requires a control procedure.
@@ -325,30 +482,6 @@ Joe Collins &bull; Michaela Iorga &bull; Dmitry Cousin &bull; David Chapman<br /
 &#10086;
 </div>
 
-**Permutation invariant networks to learn Wasserstein metrics** (Spotlight presentation)<br />
-Arijit Sehanobish &bull; Neal G Ravindra &bull; David van Dijk<br />
-<abstract>Understanding the space of probability measures on a metric space equipped with a Wasserstein distance is one of the fundamental questions in mathematical analysis. The Wasserstein metric has received a lot of attention in the machine learning community especially for its principled way of comparing distributions. In this work, we use a permutation invariant network to map samples from probability measures into a low-dimensional space such that the Euclidean distance between the encoded samples reflects the Wasserstein distance between probability measures. We show that our network can generalize to correctly compute distances between unseen densities. We also show that these networks can learn the first and the second moments of probability distributions. </abstract>
-
-[PDF](https://openreview.net/pdf?id=VFP81oXIxeh) &bull;
-[Poster](https://openreview.net/attachment?id=VFP81oXIxeh&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=VFP81oXIxeh)
-
-<div style="text-align:center">
-&#10086;
-</div>
-
-**Quantifying barley morphology using the Euler characteristic transform** (Spotlight presentation)<br />
-Erik J Amezquita &bull; Michelle Quigley &bull; Tim Ophelders &bull; Jacob Landis &bull; Elizabeth Munch &bull; Daniel Chitwood &bull; Daniel Koenig<br />
-<abstract>Shape is foundational to biology. Observing and documenting shape has fueled biological understanding, and from this perspective, it is also a type of data.  The vision of topological data analysis, that data is shape and shape is data, will be relevant as biology transitions into a data-driven era where meaningful interpretation of large data sets is a limiting factor. We focus first on quantifying the morphology of barley spikes and seeds using topological descriptors based on the Euler characteristic. We then successfully train a support vector machine to classify 28 different varieties of barley based solely on the shape of their grains.</abstract>
-
-[PDF](https://openreview.net/pdf?id=cIRwkIETJBs) &bull;
-[Poster](https://openreview.net/attachment?id=cIRwkIETJBs&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=cIRwkIETJBs)
-
-<div style="text-align:center">
-&#10086;
-</div>
-
 **Regularization of Persistent Homology Gradient Computation** <br />
 Padraig Corcoran &bull; Bailin Deng<br />
 <abstract>Persistent homology is a method for computing the topological features present in a given data. Recently, there has been much interest in the integration of persistent homology as a computational step in neural networks or deep learning. In order for a given computation to be integrated in such a way, the computation in question must be differentiable. Computing the gradients of persistent homology is an ill-posed inverse problem with infinitely many solutions. Consequently, it is important to perform regularization so that the solution obtained agrees with known priors. In this work we propose a novel method for regularizing persistent homology gradient computation through the addition of a grouping term. This has the effect of helping to ensure gradients are defined with respect to larger entities and not individual points.</abstract>
@@ -368,18 +501,6 @@ Nello Blaser &bull; Michael Aupetit<br />
 [PDF](https://openreview.net/pdf?id=3iVbgfPMZtU) &bull;
 [Poster](https://openreview.net/attachment?id=3iVbgfPMZtU&name=Poster) &bull;
 [Forum](https://openreview.net/forum?id=3iVbgfPMZtU)
-
-<div style="text-align:center">
-&#10086;
-</div>
-
-**Sheaf Neural Networks** (Spotlight presentation)<br />
-Jakob Hansen &bull; Thomas Gebhart<br />
-<abstract>We present a generalization of graph convolutional networks by generalizing the diffusion operation underlying this class of graph neural networks. These \emph{sheaf neural networks} are based on the \emph{sheaf Laplacian}, a generalization of the graph Laplacian that encodes additional relational structure parameterized by the underlying graph. The sheaf Laplacian and associated matrices provide an extended version of the diffusion operation in graph convolutional networks, providing a proper generalization for domains where relations between nodes are non-constant, asymmetric, and varying in dimension. We show that the resulting sheaf neural networks can outperform graph convolutional networks in domains where relations between nodes are asymmetric and signed.</abstract>
-
-[PDF](https://openreview.net/pdf?id=GgcgIJsT8HD) &bull;
-[Poster](https://openreview.net/attachment?id=GgcgIJsT8HD&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=GgcgIJsT8HD)
 
 <div style="text-align:center">
 &#10086;
@@ -416,18 +537,6 @@ Audun D Myers &bull; Melih Yesilli &bull; Sarah Tymochko &bull; Firas Khasawneh 
 [PDF](https://openreview.net/pdf?id=qUoVqrIcy2P) &bull;
 [Poster](https://openreview.net/attachment?id=qUoVqrIcy2P&name=Poster) &bull;
 [Forum](https://openreview.net/forum?id=qUoVqrIcy2P)
-
-<div style="text-align:center">
-&#10086;
-</div>
-
-**Topo Sampler: A Topology Constrained Noise Sampling for GANs** (Spotlight presentation)<br />
-Adrish Dey &bull; Sayantan Das<br />
-<abstract>This work studies disconnected manifold learning in generative models in the light of point-set topology and persistent homology. Under this formalism, the topological similarity of latent space in generative models with the underlying manifold of data distribution facilitates better generalization. To achieve this, we introduce a topology-constrained noise sampler, responsible for mapping the samples from Gaussian spheres to a latent embedding space, which in turn is constrained to be topologically similar to the manifold underlying the data distribution. We study the effectiveness of this method in GANs for learning disconnected manifolds. This is ongoing research, with the current report containing preliminary empirical experiments.</abstract>
-
-[PDF](https://openreview.net/pdf?id=OTxZfmVFlTO) &bull;
-[Poster](https://openreview.net/attachment?id=OTxZfmVFlTO&name=Poster) &bull;
-[Forum](https://openreview.net/forum?id=OTxZfmVFlTO)
 
 <div style="text-align:center">
 &#10086;
@@ -476,17 +585,6 @@ Filip Cornell<br />
 [PDF](https://openreview.net/pdf?id=0V6WLosuIfJ) &bull;
 [Poster](https://openreview.net/attachment?id=0V6WLosuIfJ&name=Poster) &bull;
 [Forum](https://openreview.net/forum?id=0V6WLosuIfJ)
-
-<div style="text-align:center">
-&#10086;
-</div>
-
-**Weighting vectors for machine learning: numerical harmonic analysis applied to boundary detection** (Spotlight presentation)<br />
-Eric Bunch &bull; Daniel Dickinson &bull; Jeffery Kline &bull; Glenn Fung<br />
-<abstract>Metric space magnitude, an active subject of research in algebraic topology, aims to quantify the effective number of distinct points in a space. The contribution of each point to a metric space’s global magnitude, which is encoded by the {\em weighting vector}, captures much of the underlying geometry of the original metric space. When the metric space is Euclidean, the weighting vector also serves as an effective tool for boundary detection. This allows the weighting vector to serve as the foundation of novel algorithms for classic machine learning tasks such as classification, outlier detection and active learning.   We demonstrate, using experiments and comparisons on classic benchmark datasets, the promise of the proposed magnitude and weighting vector-based approaches.</abstract>
-
-[PDF](https://openreview.net/pdf?id=AwBwKEzfaXG) &bull;
-[Forum](https://openreview.net/forum?id=AwBwKEzfaXG)
 
 <div style="text-align:center">
 &#10086;
