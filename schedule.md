@@ -99,6 +99,7 @@ or the Slack channel to ask your questions.
 - Characterizing the Latent Space of Molecular Deep Generative Models with Persistent Homology Metrics
 - Functorial Clustering via Simplicial Complexes
 - Fuzzy c-Means Clustering for Persistence Diagrams
+- giotto-tda: A Topological Data Analysis Toolkit for Machine Learning and Data Exploration
 - Hypothesis classes with a unique persistence diagram are nonuniformly learnable
 - Learning a manifold from a teacher’s demonstrations
 - LUMAWIG: Un-bottling the bottleneck distance for zero dimensional persistence diagrams at scale
