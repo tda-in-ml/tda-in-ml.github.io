@@ -498,7 +498,7 @@ Padraig Corcoran &bull; Bailin Deng<br />
 Nello Blaser &bull; Michael Aupetit<br />
 <abstract>Various topological models of multi-dimensional data have been proposed for different applications. One of the main issues is to evaluate how correct these models are given the stochastic nature of the data source typical of exploratory data analysis and machine learning settings. We propose research directions to validate the quality of the Mapper and the Generative Simplicial Complex, two models that compute simplicial complexes from multi-dimensional data.</abstract>
 
-[PDF](https://openreview.net/pdf?id=3iVbgfPMZtU) &bull;
+[PDF](https://openreview.net/references/pdf?id=XDCElDa9Qn) &bull;
 [Poster](https://openreview.net/attachment?id=3iVbgfPMZtU&name=Poster) &bull;
 [Forum](https://openreview.net/forum?id=3iVbgfPMZtU)
 
