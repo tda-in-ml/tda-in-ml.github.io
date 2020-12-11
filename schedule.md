@@ -36,6 +36,7 @@ a detailed breakdown of poster sessions.
 | <span style="font-family: monospace;">14:00--14:15</span> |  <span style="font-family: monospace;">08:00--08:15</span> | Bei Wang                    |
 | <span style="font-family: monospace;">14:15--14:30</span> |  <span style="font-family: monospace;">08:15--08:30</span> | Lorin Crawford              |
 | <span style="font-family: monospace;">14:30--14:45</span> |  <span style="font-family: monospace;">08:30--08:45</span> | Chao Chen                   |
+| <span style="font-family: monospace;">14:45--15:30</span> |  <span style="font-family: monospace;">08:00--08:45</span> | Demo Session `giotto-tda` (**live** in Gather.Town)                    |
 | <span style="font-family: monospace;">14:45--15:00</span> |  <span style="font-family: monospace;">08:45--09:00</span> | Mathieu Carrière            |
 | <span style="font-family: monospace;">15:00--15:15</span> |  <span style="font-family: monospace;">09:00--09:15</span> | Brittany Terese Fasy        |
 | <span style="font-family: monospace;">15:15--15:30</span> |  <span style="font-family: monospace;">09:15--09:30</span> | Don Sheehy                  |
