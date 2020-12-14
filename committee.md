@@ -9,8 +9,8 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 
 - [Erik Amézquita](https://www.egr.msu.edu/~amezqui3) (Michigan State University)
 - [Michaël Aupetit](https://www.hbku.edu.qa/en/staff/dr-micha%C3%ABl-aupetit) (Hamad Bin Khalifa University, [@MichaelAupetit](https://twitter.com/michaelaupetit))
-- [Rayna Andreeva](http://www.inf.ed.ac.uk/people/students/Rayna_Andreeva.html) (University of Edingburgh, [@randreeva1](https://twitter.com/randreeva1))
-- [Samuelson Tijesunimi Atiba](https://medium.com/@the_samuelson) (RiseVest, [@the_samuelson](https://twitter.com/the_samuelson))
+- [Rayna Andreeva](http://www.inf.ed.ac.uk/people/students/Rayna_Andreeva.html) (University of Edinburgh, [@randreeva1](https://twitter.com/randreeva1))
+- [Samuelson Tijesunimi Atiba](https://linkedin.com/in/samuelson-atiba) (Cardiff University, [@the_samuelson](https://twitter.com/the_samuelson))
 - [Aishwarya H. Balwani](https://aishwaryahb.github.io) (Georgia Tech, [iishiiyaa](https://twitter.com/iishiiyaa))
 - [Serguei Barannikov](https://webusers.imj-prg.fr/serguei.barannikov) (IMJ Paris University)
 - [Stella Rose Biderman](https://www.stellabiderman.com) (Booz Allen Hamilton, [@BlancheMinerva](https://twitter.com/BlancheMinerva))
