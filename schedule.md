@@ -80,8 +80,6 @@ This session will be *live*! Please use the Rocket.Chat on the [NeurIPS
 workshop website](https://neurips.cc/virtual/2020/protected/workshop_16159.html)
 or the Slack channel to ask your questions. 
 
-https://slideslive.com/38947485
-
 <div id="presentation-embed-38947485"></div>
 <script src='https://slideslive.com/embed_presentation.js'></script>
 <script>
