@@ -83,7 +83,7 @@ or the Slack channel to ask your questions.
 <div id="presentation-embed-38947485"></div>
 <script src='https://slideslive.com/embed_presentation.js'></script>
 <script>
-    embed = new SlidesLiveEmbed('presentation-embed-338947485', {
+    embed = new SlidesLiveEmbed('presentation-embed-38947485', {
         presentationId: '38947485',
         autoPlay: false,
         verticalEnabled: true
