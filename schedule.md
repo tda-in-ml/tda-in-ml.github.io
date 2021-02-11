@@ -80,6 +80,18 @@ This session will be *live*! Please use the Rocket.Chat on the [NeurIPS
 workshop website](https://neurips.cc/virtual/2020/protected/workshop_16159.html)
 or the Slack channel to ask your questions. 
 
+https://slideslive.com/38947485
+
+<div id="presentation-embed-38947485"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-338947485', {
+        presentationId: '38947485',
+        autoPlay: false,
+        verticalEnabled: true
+    });
+</script>
+
 ## Participants in this panel
 
 - [Serguei Barannikov](/speakers#serguei-barannikov)
@@ -124,6 +136,17 @@ This session will be *live*! Please use the Rocket.Chat on the [NeurIPS
 workshop website](https://neurips.cc/virtual/2020/protected/workshop_16159.html)
 or the Slack channel to ask your questions. 
 
+<div id="presentation-embed-38947487"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38947487', {
+        presentationId: '38947487',
+        autoPlay: false,
+        verticalEnabled: true
+    });
+</script>
+
+
 ## Participants in this panel
 
 - [Serguei Barannikov](/speakers#serguei-barannikov)
@@ -167,6 +190,16 @@ or the Slack channel to ask your questions.
 This session will be *live*! Please use the Rocket.Chat on the [NeurIPS
 workshop website](https://neurips.cc/virtual/2020/protected/workshop_16159.html)
 or the Slack channel to ask your questions. 
+
+<div id="presentation-embed-38947488"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38947488', {
+        presentationId: '38947488',
+        autoPlay: false,
+        verticalEnabled: true
+    });
+</script>
 
 ## Participants in this panel
 
